@@ -1,0 +1,2999 @@
+training error after epoch 1: 0.187345
+validation error after epoch 1: 0.194288
+
+training error after epoch 2: 0.187323
+validation error after epoch 2: 0.194266
+
+training error after epoch 3: 0.187296
+validation error after epoch 3: 0.194239
+
+training error after epoch 4: 0.187259
+validation error after epoch 4: 0.194201
+
+training error after epoch 5: 0.187203
+validation error after epoch 5: 0.194145
+
+training error after epoch 6: 0.187116
+validation error after epoch 6: 0.194058
+
+training error after epoch 7: 0.186974
+validation error after epoch 7: 0.193915
+
+training error after epoch 8: 0.186727
+validation error after epoch 8: 0.193668
+
+training error after epoch 9: 0.186265
+validation error after epoch 9: 0.193204
+
+training error after epoch 10: 0.185304
+validation error after epoch 10: 0.192239
+
+training error after epoch 11: 0.183010
+validation error after epoch 11: 0.189933
+
+training error after epoch 12: 0.176538
+validation error after epoch 12: 0.183425
+
+training error after epoch 13: 0.157978
+validation error after epoch 13: 0.164727
+
+training error after epoch 14: 0.135154
+validation error after epoch 14: 0.141622
+
+training error after epoch 15: 0.129413
+validation error after epoch 15: 0.135846
+
+training error after epoch 16: 0.127191
+validation error after epoch 16: 0.133733
+
+training error after epoch 17: 0.125459
+validation error after epoch 17: 0.132114
+
+training error after epoch 18: 0.123920
+validation error after epoch 18: 0.130675
+
+training error after epoch 19: 0.122467
+validation error after epoch 19: 0.129312
+
+training error after epoch 20: 0.121049
+validation error after epoch 20: 0.127976
+
+training error after epoch 21: 0.119634
+validation error after epoch 21: 0.126633
+
+training error after epoch 22: 0.118192
+validation error after epoch 22: 0.125256
+
+training error after epoch 23: 0.116699
+validation error after epoch 23: 0.123817
+
+training error after epoch 24: 0.115136
+validation error after epoch 24: 0.122295
+
+training error after epoch 25: 0.113487
+validation error after epoch 25: 0.120673
+
+training error after epoch 26: 0.111748
+validation error after epoch 26: 0.118944
+
+training error after epoch 27: 0.109927
+validation error after epoch 27: 0.117112
+
+training error after epoch 28: 0.108046
+validation error after epoch 28: 0.115195
+
+training error after epoch 29: 0.106138
+validation error after epoch 29: 0.113228
+
+training error after epoch 30: 0.104249
+validation error after epoch 30: 0.111254
+
+training error after epoch 31: 0.102427
+validation error after epoch 31: 0.109323
+
+training error after epoch 32: 0.100714
+validation error after epoch 32: 0.107480
+
+training error after epoch 33: 0.099137
+validation error after epoch 33: 0.105759
+
+training error after epoch 34: 0.097710
+validation error after epoch 34: 0.104181
+
+training error after epoch 35: 0.096428
+validation error after epoch 35: 0.102748
+
+training error after epoch 36: 0.095276
+validation error after epoch 36: 0.101450
+
+training error after epoch 37: 0.094228
+validation error after epoch 37: 0.100268
+
+training error after epoch 38: 0.093260
+validation error after epoch 38: 0.099180
+
+training error after epoch 39: 0.092347
+validation error after epoch 39: 0.098162
+
+training error after epoch 40: 0.091470
+validation error after epoch 40: 0.097195
+
+training error after epoch 41: 0.090617
+validation error after epoch 41: 0.096266
+
+training error after epoch 42: 0.089780
+validation error after epoch 42: 0.095365
+
+training error after epoch 43: 0.088958
+validation error after epoch 43: 0.094490
+
+training error after epoch 44: 0.088150
+validation error after epoch 44: 0.093639
+
+training error after epoch 45: 0.087358
+validation error after epoch 45: 0.092813
+
+training error after epoch 46: 0.086585
+validation error after epoch 46: 0.092012
+
+training error after epoch 47: 0.085829
+validation error after epoch 47: 0.091236
+
+training error after epoch 48: 0.085090
+validation error after epoch 48: 0.090482
+
+training error after epoch 49: 0.084365
+validation error after epoch 49: 0.089746
+
+training error after epoch 50: 0.083648
+validation error after epoch 50: 0.089023
+
+training error after epoch 51: 0.082933
+validation error after epoch 51: 0.088307
+
+training error after epoch 52: 0.082213
+validation error after epoch 52: 0.087591
+
+training error after epoch 53: 0.081483
+validation error after epoch 53: 0.086869
+
+training error after epoch 54: 0.080737
+validation error after epoch 54: 0.086135
+
+training error after epoch 55: 0.079971
+validation error after epoch 55: 0.085388
+
+training error after epoch 56: 0.079186
+validation error after epoch 56: 0.084626
+
+training error after epoch 57: 0.078382
+validation error after epoch 57: 0.083850
+
+training error after epoch 58: 0.077562
+validation error after epoch 58: 0.083064
+
+training error after epoch 59: 0.076729
+validation error after epoch 59: 0.082271
+
+training error after epoch 60: 0.075883
+validation error after epoch 60: 0.081472
+
+training error after epoch 61: 0.075031
+validation error after epoch 61: 0.080671
+
+training error after epoch 62: 0.074175
+validation error after epoch 62: 0.079873
+
+training error after epoch 63: 0.073321
+validation error after epoch 63: 0.079081
+
+training error after epoch 64: 0.072474
+validation error after epoch 64: 0.078300
+
+training error after epoch 65: 0.071635
+validation error after epoch 65: 0.077529
+
+training error after epoch 66: 0.070806
+validation error after epoch 66: 0.076769
+
+training error after epoch 67: 0.069986
+validation error after epoch 67: 0.076018
+
+training error after epoch 68: 0.069175
+validation error after epoch 68: 0.075275
+
+training error after epoch 69: 0.068373
+validation error after epoch 69: 0.074540
+
+training error after epoch 70: 0.067581
+validation error after epoch 70: 0.073813
+
+training error after epoch 71: 0.066799
+validation error after epoch 71: 0.073094
+
+training error after epoch 72: 0.066028
+validation error after epoch 72: 0.072385
+
+training error after epoch 73: 0.065267
+validation error after epoch 73: 0.071686
+
+training error after epoch 74: 0.064519
+validation error after epoch 74: 0.070998
+
+training error after epoch 75: 0.063782
+validation error after epoch 75: 0.070322
+
+training error after epoch 76: 0.063056
+validation error after epoch 76: 0.069657
+
+training error after epoch 77: 0.062342
+validation error after epoch 77: 0.069004
+
+training error after epoch 78: 0.061637
+validation error after epoch 78: 0.068362
+
+training error after epoch 79: 0.060943
+validation error after epoch 79: 0.067732
+
+training error after epoch 80: 0.060258
+validation error after epoch 80: 0.067112
+
+training error after epoch 81: 0.059581
+validation error after epoch 81: 0.066503
+
+training error after epoch 82: 0.058912
+validation error after epoch 82: 0.065904
+
+training error after epoch 83: 0.058251
+validation error after epoch 83: 0.065315
+
+training error after epoch 84: 0.057596
+validation error after epoch 84: 0.064734
+
+training error after epoch 85: 0.056947
+validation error after epoch 85: 0.064161
+
+training error after epoch 86: 0.056303
+validation error after epoch 86: 0.063596
+
+training error after epoch 87: 0.055665
+validation error after epoch 87: 0.063037
+
+training error after epoch 88: 0.055031
+validation error after epoch 88: 0.062485
+
+training error after epoch 89: 0.054402
+validation error after epoch 89: 0.061938
+
+training error after epoch 90: 0.053778
+validation error after epoch 90: 0.061397
+
+training error after epoch 91: 0.053158
+validation error after epoch 91: 0.060860
+
+training error after epoch 92: 0.052541
+validation error after epoch 92: 0.060328
+
+training error after epoch 93: 0.051930
+validation error after epoch 93: 0.059800
+
+training error after epoch 94: 0.051322
+validation error after epoch 94: 0.059276
+
+training error after epoch 95: 0.050719
+validation error after epoch 95: 0.058756
+
+training error after epoch 96: 0.050121
+validation error after epoch 96: 0.058241
+
+training error after epoch 97: 0.049527
+validation error after epoch 97: 0.057729
+
+training error after epoch 98: 0.048940
+validation error after epoch 98: 0.057223
+
+training error after epoch 99: 0.048359
+validation error after epoch 99: 0.056721
+
+training error after epoch 100: 0.047785
+validation error after epoch 100: 0.056226
+
+training error after epoch 101: 0.047218
+validation error after epoch 101: 0.055736
+
+training error after epoch 102: 0.046659
+validation error after epoch 102: 0.055252
+
+training error after epoch 103: 0.046109
+validation error after epoch 103: 0.054775
+
+training error after epoch 104: 0.045566
+validation error after epoch 104: 0.054304
+
+training error after epoch 105: 0.045032
+validation error after epoch 105: 0.053840
+
+training error after epoch 106: 0.044507
+validation error after epoch 106: 0.053382
+
+training error after epoch 107: 0.043990
+validation error after epoch 107: 0.052932
+
+training error after epoch 108: 0.043481
+validation error after epoch 108: 0.052489
+
+training error after epoch 109: 0.042980
+validation error after epoch 109: 0.052053
+
+training error after epoch 110: 0.042488
+validation error after epoch 110: 0.051624
+
+training error after epoch 111: 0.042004
+validation error after epoch 111: 0.051202
+
+training error after epoch 112: 0.041528
+validation error after epoch 112: 0.050787
+
+training error after epoch 113: 0.041059
+validation error after epoch 113: 0.050379
+
+training error after epoch 114: 0.040599
+validation error after epoch 114: 0.049978
+
+training error after epoch 115: 0.040145
+validation error after epoch 115: 0.049584
+
+training error after epoch 116: 0.039700
+validation error after epoch 116: 0.049197
+
+training error after epoch 117: 0.039262
+validation error after epoch 117: 0.048817
+
+training error after epoch 118: 0.038831
+validation error after epoch 118: 0.048443
+
+training error after epoch 119: 0.038408
+validation error after epoch 119: 0.048076
+
+training error after epoch 120: 0.037992
+validation error after epoch 120: 0.047716
+
+training error after epoch 121: 0.037584
+validation error after epoch 121: 0.047362
+
+training error after epoch 122: 0.037182
+validation error after epoch 122: 0.047015
+
+training error after epoch 123: 0.036788
+validation error after epoch 123: 0.046675
+
+training error after epoch 124: 0.036401
+validation error after epoch 124: 0.046341
+
+training error after epoch 125: 0.036021
+validation error after epoch 125: 0.046014
+
+training error after epoch 126: 0.035649
+validation error after epoch 126: 0.045693
+
+training error after epoch 127: 0.035283
+validation error after epoch 127: 0.045379
+
+training error after epoch 128: 0.034925
+validation error after epoch 128: 0.045071
+
+training error after epoch 129: 0.034573
+validation error after epoch 129: 0.044769
+
+training error after epoch 130: 0.034228
+validation error after epoch 130: 0.044474
+
+training error after epoch 131: 0.033890
+validation error after epoch 131: 0.044184
+
+training error after epoch 132: 0.033559
+validation error after epoch 132: 0.043901
+
+training error after epoch 133: 0.033234
+validation error after epoch 133: 0.043623
+
+training error after epoch 134: 0.032915
+validation error after epoch 134: 0.043352
+
+training error after epoch 135: 0.032602
+validation error after epoch 135: 0.043086
+
+training error after epoch 136: 0.032296
+validation error after epoch 136: 0.042826
+
+training error after epoch 137: 0.031996
+validation error after epoch 137: 0.042572
+
+training error after epoch 138: 0.031701
+validation error after epoch 138: 0.042323
+
+training error after epoch 139: 0.031412
+validation error after epoch 139: 0.042080
+
+training error after epoch 140: 0.031128
+validation error after epoch 140: 0.041842
+
+training error after epoch 141: 0.030850
+validation error after epoch 141: 0.041608
+
+training error after epoch 142: 0.030577
+validation error after epoch 142: 0.041381
+
+training error after epoch 143: 0.030309
+validation error after epoch 143: 0.041158
+
+training error after epoch 144: 0.030046
+validation error after epoch 144: 0.040939
+
+training error after epoch 145: 0.029788
+validation error after epoch 145: 0.040726
+
+training error after epoch 146: 0.029534
+validation error after epoch 146: 0.040517
+
+training error after epoch 147: 0.029285
+validation error after epoch 147: 0.040313
+
+training error after epoch 148: 0.029040
+validation error after epoch 148: 0.040113
+
+training error after epoch 149: 0.028800
+validation error after epoch 149: 0.039917
+
+training error after epoch 150: 0.028563
+validation error after epoch 150: 0.039725
+
+training error after epoch 151: 0.028331
+validation error after epoch 151: 0.039537
+
+training error after epoch 152: 0.028103
+validation error after epoch 152: 0.039353
+
+training error after epoch 153: 0.027878
+validation error after epoch 153: 0.039173
+
+training error after epoch 154: 0.027657
+validation error after epoch 154: 0.038996
+
+training error after epoch 155: 0.027440
+validation error after epoch 155: 0.038823
+
+training error after epoch 156: 0.027226
+validation error after epoch 156: 0.038654
+
+training error after epoch 157: 0.027015
+validation error after epoch 157: 0.038488
+
+training error after epoch 158: 0.026808
+validation error after epoch 158: 0.038324
+
+training error after epoch 159: 0.026604
+validation error after epoch 159: 0.038165
+
+training error after epoch 160: 0.026403
+validation error after epoch 160: 0.038008
+
+training error after epoch 161: 0.026205
+validation error after epoch 161: 0.037854
+
+training error after epoch 162: 0.026010
+validation error after epoch 162: 0.037703
+
+training error after epoch 163: 0.025818
+validation error after epoch 163: 0.037554
+
+training error after epoch 164: 0.025629
+validation error after epoch 164: 0.037409
+
+training error after epoch 165: 0.025443
+validation error after epoch 165: 0.037266
+
+training error after epoch 166: 0.025259
+validation error after epoch 166: 0.037126
+
+training error after epoch 167: 0.025078
+validation error after epoch 167: 0.036988
+
+training error after epoch 168: 0.024899
+validation error after epoch 168: 0.036853
+
+training error after epoch 169: 0.024723
+validation error after epoch 169: 0.036720
+
+training error after epoch 170: 0.024549
+validation error after epoch 170: 0.036589
+
+training error after epoch 171: 0.024378
+validation error after epoch 171: 0.036460
+
+training error after epoch 172: 0.024209
+validation error after epoch 172: 0.036334
+
+training error after epoch 173: 0.024042
+validation error after epoch 173: 0.036210
+
+training error after epoch 174: 0.023878
+validation error after epoch 174: 0.036088
+
+training error after epoch 175: 0.023716
+validation error after epoch 175: 0.035968
+
+training error after epoch 176: 0.023555
+validation error after epoch 176: 0.035850
+
+training error after epoch 177: 0.023397
+validation error after epoch 177: 0.035734
+
+training error after epoch 178: 0.023241
+validation error after epoch 178: 0.035620
+
+training error after epoch 179: 0.023087
+validation error after epoch 179: 0.035508
+
+training error after epoch 180: 0.022935
+validation error after epoch 180: 0.035398
+
+training error after epoch 181: 0.022785
+validation error after epoch 181: 0.035289
+
+training error after epoch 182: 0.022637
+validation error after epoch 182: 0.035182
+
+training error after epoch 183: 0.022490
+validation error after epoch 183: 0.035077
+
+training error after epoch 184: 0.022346
+validation error after epoch 184: 0.034974
+
+training error after epoch 185: 0.022203
+validation error after epoch 185: 0.034872
+
+training error after epoch 186: 0.022062
+validation error after epoch 186: 0.034772
+
+training error after epoch 187: 0.021923
+validation error after epoch 187: 0.034673
+
+training error after epoch 188: 0.021785
+validation error after epoch 188: 0.034577
+
+training error after epoch 189: 0.021649
+validation error after epoch 189: 0.034481
+
+training error after epoch 190: 0.021514
+validation error after epoch 190: 0.034387
+
+training error after epoch 191: 0.021382
+validation error after epoch 191: 0.034295
+
+training error after epoch 192: 0.021250
+validation error after epoch 192: 0.034204
+
+training error after epoch 193: 0.021121
+validation error after epoch 193: 0.034114
+
+training error after epoch 194: 0.020992
+validation error after epoch 194: 0.034026
+
+training error after epoch 195: 0.020866
+validation error after epoch 195: 0.033940
+
+training error after epoch 196: 0.020741
+validation error after epoch 196: 0.033854
+
+training error after epoch 197: 0.020617
+validation error after epoch 197: 0.033771
+
+training error after epoch 198: 0.020494
+validation error after epoch 198: 0.033688
+
+training error after epoch 199: 0.020373
+validation error after epoch 199: 0.033607
+
+training error after epoch 200: 0.020254
+validation error after epoch 200: 0.033527
+
+training error after epoch 201: 0.020136
+validation error after epoch 201: 0.033449
+
+training error after epoch 202: 0.020019
+validation error after epoch 202: 0.033371
+
+training error after epoch 203: 0.019903
+validation error after epoch 203: 0.033296
+
+training error after epoch 204: 0.019789
+validation error after epoch 204: 0.033221
+
+training error after epoch 205: 0.019676
+validation error after epoch 205: 0.033148
+
+training error after epoch 206: 0.019564
+validation error after epoch 206: 0.033075
+
+training error after epoch 207: 0.019454
+validation error after epoch 207: 0.033004
+
+training error after epoch 208: 0.019345
+validation error after epoch 208: 0.032935
+
+training error after epoch 209: 0.019236
+validation error after epoch 209: 0.032866
+
+training error after epoch 210: 0.019129
+validation error after epoch 210: 0.032799
+
+training error after epoch 211: 0.019024
+validation error after epoch 211: 0.032733
+
+training error after epoch 212: 0.018919
+validation error after epoch 212: 0.032668
+
+training error after epoch 213: 0.018815
+validation error after epoch 213: 0.032604
+
+training error after epoch 214: 0.018713
+validation error after epoch 214: 0.032541
+
+training error after epoch 215: 0.018612
+validation error after epoch 215: 0.032480
+
+training error after epoch 216: 0.018511
+validation error after epoch 216: 0.032419
+
+training error after epoch 217: 0.018412
+validation error after epoch 217: 0.032360
+
+training error after epoch 218: 0.018314
+validation error after epoch 218: 0.032301
+
+training error after epoch 219: 0.018217
+validation error after epoch 219: 0.032244
+
+training error after epoch 220: 0.018120
+validation error after epoch 220: 0.032187
+
+training error after epoch 221: 0.018025
+validation error after epoch 221: 0.032132
+
+training error after epoch 222: 0.017931
+validation error after epoch 222: 0.032078
+
+training error after epoch 223: 0.017838
+validation error after epoch 223: 0.032024
+
+training error after epoch 224: 0.017745
+validation error after epoch 224: 0.031972
+
+training error after epoch 225: 0.017654
+validation error after epoch 225: 0.031921
+
+training error after epoch 226: 0.017563
+validation error after epoch 226: 0.031870
+
+training error after epoch 227: 0.017474
+validation error after epoch 227: 0.031821
+
+training error after epoch 228: 0.017385
+validation error after epoch 228: 0.031772
+
+training error after epoch 229: 0.017297
+validation error after epoch 229: 0.031724
+
+training error after epoch 230: 0.017210
+validation error after epoch 230: 0.031677
+
+training error after epoch 231: 0.017124
+validation error after epoch 231: 0.031631
+
+training error after epoch 232: 0.017039
+validation error after epoch 232: 0.031586
+
+training error after epoch 233: 0.016954
+validation error after epoch 233: 0.031542
+
+training error after epoch 234: 0.016870
+validation error after epoch 234: 0.031499
+
+training error after epoch 235: 0.016788
+validation error after epoch 235: 0.031456
+
+training error after epoch 236: 0.016705
+validation error after epoch 236: 0.031414
+
+training error after epoch 237: 0.016624
+validation error after epoch 237: 0.031373
+
+training error after epoch 238: 0.016544
+validation error after epoch 238: 0.031333
+
+training error after epoch 239: 0.016464
+validation error after epoch 239: 0.031294
+
+training error after epoch 240: 0.016385
+validation error after epoch 240: 0.031255
+
+training error after epoch 241: 0.016307
+validation error after epoch 241: 0.031217
+
+training error after epoch 242: 0.016229
+validation error after epoch 242: 0.031180
+
+training error after epoch 243: 0.016153
+validation error after epoch 243: 0.031143
+
+training error after epoch 244: 0.016077
+validation error after epoch 244: 0.031108
+
+training error after epoch 245: 0.016001
+validation error after epoch 245: 0.031072
+
+training error after epoch 246: 0.015927
+validation error after epoch 246: 0.031038
+
+training error after epoch 247: 0.015853
+validation error after epoch 247: 0.031004
+
+training error after epoch 248: 0.015780
+validation error after epoch 248: 0.030971
+
+training error after epoch 249: 0.015707
+validation error after epoch 249: 0.030939
+
+training error after epoch 250: 0.015636
+validation error after epoch 250: 0.030907
+
+training error after epoch 251: 0.015564
+validation error after epoch 251: 0.030876
+
+training error after epoch 252: 0.015494
+validation error after epoch 252: 0.030846
+
+training error after epoch 253: 0.015424
+validation error after epoch 253: 0.030816
+
+training error after epoch 254: 0.015355
+validation error after epoch 254: 0.030787
+
+training error after epoch 255: 0.015286
+validation error after epoch 255: 0.030758
+
+training error after epoch 256: 0.015219
+validation error after epoch 256: 0.030730
+
+training error after epoch 257: 0.015151
+validation error after epoch 257: 0.030702
+
+training error after epoch 258: 0.015085
+validation error after epoch 258: 0.030676
+
+training error after epoch 259: 0.015019
+validation error after epoch 259: 0.030649
+
+training error after epoch 260: 0.014953
+validation error after epoch 260: 0.030623
+
+training error after epoch 261: 0.014888
+validation error after epoch 261: 0.030598
+
+training error after epoch 262: 0.014824
+validation error after epoch 262: 0.030573
+
+training error after epoch 263: 0.014761
+validation error after epoch 263: 0.030549
+
+training error after epoch 264: 0.014697
+validation error after epoch 264: 0.030525
+
+training error after epoch 265: 0.014635
+validation error after epoch 265: 0.030502
+
+training error after epoch 266: 0.014573
+validation error after epoch 266: 0.030479
+
+training error after epoch 267: 0.014512
+validation error after epoch 267: 0.030457
+
+training error after epoch 268: 0.014451
+validation error after epoch 268: 0.030435
+
+training error after epoch 269: 0.014391
+validation error after epoch 269: 0.030414
+
+training error after epoch 270: 0.014331
+validation error after epoch 270: 0.030393
+
+training error after epoch 271: 0.014272
+validation error after epoch 271: 0.030372
+
+training error after epoch 272: 0.014213
+validation error after epoch 272: 0.030353
+
+training error after epoch 273: 0.014155
+validation error after epoch 273: 0.030333
+
+training error after epoch 274: 0.014097
+validation error after epoch 274: 0.030314
+
+training error after epoch 275: 0.014040
+validation error after epoch 275: 0.030295
+
+training error after epoch 276: 0.013983
+validation error after epoch 276: 0.030277
+
+training error after epoch 277: 0.013927
+validation error after epoch 277: 0.030259
+
+training error after epoch 278: 0.013872
+validation error after epoch 278: 0.030242
+
+training error after epoch 279: 0.013817
+validation error after epoch 279: 0.030224
+
+training error after epoch 280: 0.013762
+validation error after epoch 280: 0.030208
+
+training error after epoch 281: 0.013708
+validation error after epoch 281: 0.030192
+
+training error after epoch 282: 0.013654
+validation error after epoch 282: 0.030176
+
+training error after epoch 283: 0.013601
+validation error after epoch 283: 0.030160
+
+training error after epoch 284: 0.013548
+validation error after epoch 284: 0.030145
+
+training error after epoch 285: 0.013496
+validation error after epoch 285: 0.030130
+
+training error after epoch 286: 0.013444
+validation error after epoch 286: 0.030116
+
+training error after epoch 287: 0.013393
+validation error after epoch 287: 0.030102
+
+training error after epoch 288: 0.013342
+validation error after epoch 288: 0.030088
+
+training error after epoch 289: 0.013291
+validation error after epoch 289: 0.030074
+
+training error after epoch 290: 0.013241
+validation error after epoch 290: 0.030061
+
+training error after epoch 291: 0.013191
+validation error after epoch 291: 0.030049
+
+training error after epoch 292: 0.013142
+validation error after epoch 292: 0.030036
+
+training error after epoch 293: 0.013093
+validation error after epoch 293: 0.030024
+
+training error after epoch 294: 0.013045
+validation error after epoch 294: 0.030013
+
+training error after epoch 295: 0.012997
+validation error after epoch 295: 0.030001
+
+training error after epoch 296: 0.012949
+validation error after epoch 296: 0.029990
+
+training error after epoch 297: 0.012902
+validation error after epoch 297: 0.029979
+
+training error after epoch 298: 0.012855
+validation error after epoch 298: 0.029969
+
+training error after epoch 299: 0.012809
+validation error after epoch 299: 0.029959
+
+training error after epoch 300: 0.012763
+validation error after epoch 300: 0.029949
+
+training error after epoch 301: 0.012717
+validation error after epoch 301: 0.029939
+
+training error after epoch 302: 0.012672
+validation error after epoch 302: 0.029930
+
+training error after epoch 303: 0.012627
+validation error after epoch 303: 0.029921
+
+training error after epoch 304: 0.012583
+validation error after epoch 304: 0.029912
+
+training error after epoch 305: 0.012539
+validation error after epoch 305: 0.029904
+
+training error after epoch 306: 0.012495
+validation error after epoch 306: 0.029896
+
+training error after epoch 307: 0.012451
+validation error after epoch 307: 0.029888
+
+training error after epoch 308: 0.012408
+validation error after epoch 308: 0.029881
+
+training error after epoch 309: 0.012366
+validation error after epoch 309: 0.029873
+
+training error after epoch 310: 0.012324
+validation error after epoch 310: 0.029866
+
+training error after epoch 311: 0.012282
+validation error after epoch 311: 0.029860
+
+training error after epoch 312: 0.012240
+validation error after epoch 312: 0.029853
+
+training error after epoch 313: 0.012199
+validation error after epoch 313: 0.029847
+
+training error after epoch 314: 0.012158
+validation error after epoch 314: 0.029841
+
+training error after epoch 315: 0.012117
+validation error after epoch 315: 0.029835
+
+training error after epoch 316: 0.012077
+validation error after epoch 316: 0.029830
+
+training error after epoch 317: 0.012037
+validation error after epoch 317: 0.029825
+
+training error after epoch 318: 0.011997
+validation error after epoch 318: 0.029820
+
+training error after epoch 319: 0.011958
+validation error after epoch 319: 0.029816
+
+training error after epoch 320: 0.011919
+validation error after epoch 320: 0.029811
+
+training error after epoch 321: 0.011881
+validation error after epoch 321: 0.029807
+
+training error after epoch 322: 0.011842
+validation error after epoch 322: 0.029803
+
+training error after epoch 323: 0.011804
+validation error after epoch 323: 0.029800
+
+training error after epoch 324: 0.011767
+validation error after epoch 324: 0.029796
+
+training error after epoch 325: 0.011729
+validation error after epoch 325: 0.029793
+
+training error after epoch 326: 0.011692
+validation error after epoch 326: 0.029791
+
+training error after epoch 327: 0.011655
+validation error after epoch 327: 0.029788
+
+training error after epoch 328: 0.011619
+validation error after epoch 328: 0.029786
+
+training error after epoch 329: 0.011583
+validation error after epoch 329: 0.029783
+
+training error after epoch 330: 0.011547
+validation error after epoch 330: 0.029782
+
+training error after epoch 331: 0.011511
+validation error after epoch 331: 0.029780
+
+training error after epoch 332: 0.011476
+validation error after epoch 332: 0.029779
+
+training error after epoch 333: 0.011441
+validation error after epoch 333: 0.029777
+
+training error after epoch 334: 0.011406
+validation error after epoch 334: 0.029776
+
+training error after epoch 335: 0.011372
+validation error after epoch 335: 0.029776
+
+training error after epoch 336: 0.011337
+validation error after epoch 336: 0.029775
+
+training error after epoch 337: 0.011303
+validation error after epoch 337: 0.029775
+
+training error after epoch 338: 0.011270
+validation error after epoch 338: 0.029775
+
+training error after epoch 339: 0.011236
+validation error after epoch 339: 0.029775
+
+training error after epoch 340: 0.011203
+validation error after epoch 340: 0.029776
+
+training error after epoch 341: 0.011170
+validation error after epoch 341: 0.029776
+
+training error after epoch 342: 0.011138
+validation error after epoch 342: 0.029777
+
+training error after epoch 343: 0.011105
+validation error after epoch 343: 0.029778
+
+training error after epoch 344: 0.011073
+validation error after epoch 344: 0.029779
+
+training error after epoch 345: 0.011041
+validation error after epoch 345: 0.029781
+
+training error after epoch 346: 0.011010
+validation error after epoch 346: 0.029783
+
+training error after epoch 347: 0.010978
+validation error after epoch 347: 0.029784
+
+training error after epoch 348: 0.010947
+validation error after epoch 348: 0.029787
+
+training error after epoch 349: 0.010916
+validation error after epoch 349: 0.029789
+
+training error after epoch 350: 0.010886
+validation error after epoch 350: 0.029792
+
+training error after epoch 351: 0.010855
+validation error after epoch 351: 0.029794
+
+training error after epoch 352: 0.010825
+validation error after epoch 352: 0.029797
+
+training error after epoch 353: 0.010795
+validation error after epoch 353: 0.029800
+
+training error after epoch 354: 0.010766
+validation error after epoch 354: 0.029804
+
+training error after epoch 355: 0.010736
+validation error after epoch 355: 0.029807
+
+training error after epoch 356: 0.010707
+validation error after epoch 356: 0.029811
+
+training error after epoch 357: 0.010678
+validation error after epoch 357: 0.029815
+
+training error after epoch 358: 0.010649
+validation error after epoch 358: 0.029819
+
+training error after epoch 359: 0.010621
+validation error after epoch 359: 0.029824
+
+training error after epoch 360: 0.010592
+validation error after epoch 360: 0.029828
+
+training error after epoch 361: 0.010564
+validation error after epoch 361: 0.029833
+
+training error after epoch 362: 0.010536
+validation error after epoch 362: 0.029838
+
+training error after epoch 363: 0.010508
+validation error after epoch 363: 0.029843
+
+training error after epoch 364: 0.010481
+validation error after epoch 364: 0.029848
+
+training error after epoch 365: 0.010454
+validation error after epoch 365: 0.029854
+
+training error after epoch 366: 0.010427
+validation error after epoch 366: 0.029859
+
+training error after epoch 367: 0.010400
+validation error after epoch 367: 0.029865
+
+training error after epoch 368: 0.010373
+validation error after epoch 368: 0.029871
+
+training error after epoch 369: 0.010347
+validation error after epoch 369: 0.029877
+
+training error after epoch 370: 0.010320
+validation error after epoch 370: 0.029884
+
+training error after epoch 371: 0.010294
+validation error after epoch 371: 0.029890
+
+training error after epoch 372: 0.010269
+validation error after epoch 372: 0.029897
+
+training error after epoch 373: 0.010243
+validation error after epoch 373: 0.029904
+
+training error after epoch 374: 0.010217
+validation error after epoch 374: 0.029911
+
+training error after epoch 375: 0.010192
+validation error after epoch 375: 0.029918
+
+training error after epoch 376: 0.010167
+validation error after epoch 376: 0.029926
+
+training error after epoch 377: 0.010142
+validation error after epoch 377: 0.029933
+
+training error after epoch 378: 0.010118
+validation error after epoch 378: 0.029941
+
+training error after epoch 379: 0.010093
+validation error after epoch 379: 0.029949
+
+training error after epoch 380: 0.010069
+validation error after epoch 380: 0.029957
+
+training error after epoch 381: 0.010044
+validation error after epoch 381: 0.029965
+
+training error after epoch 382: 0.010021
+validation error after epoch 382: 0.029973
+
+training error after epoch 383: 0.009997
+validation error after epoch 383: 0.029982
+
+training error after epoch 384: 0.009973
+validation error after epoch 384: 0.029991
+
+training error after epoch 385: 0.009950
+validation error after epoch 385: 0.030000
+
+training error after epoch 386: 0.009926
+validation error after epoch 386: 0.030009
+
+training error after epoch 387: 0.009903
+validation error after epoch 387: 0.030018
+
+training error after epoch 388: 0.009880
+validation error after epoch 388: 0.030027
+
+training error after epoch 389: 0.009858
+validation error after epoch 389: 0.030036
+
+training error after epoch 390: 0.009835
+validation error after epoch 390: 0.030046
+
+training error after epoch 391: 0.009812
+validation error after epoch 391: 0.030056
+
+training error after epoch 392: 0.009790
+validation error after epoch 392: 0.030066
+
+training error after epoch 393: 0.009768
+validation error after epoch 393: 0.030076
+
+training error after epoch 394: 0.009746
+validation error after epoch 394: 0.030086
+
+training error after epoch 395: 0.009724
+validation error after epoch 395: 0.030096
+
+training error after epoch 396: 0.009703
+validation error after epoch 396: 0.030106
+
+training error after epoch 397: 0.009681
+validation error after epoch 397: 0.030117
+
+training error after epoch 398: 0.009660
+validation error after epoch 398: 0.030128
+
+training error after epoch 399: 0.009639
+validation error after epoch 399: 0.030139
+
+training error after epoch 400: 0.009617
+validation error after epoch 400: 0.030149
+
+training error after epoch 401: 0.009597
+validation error after epoch 401: 0.030161
+
+training error after epoch 402: 0.009576
+validation error after epoch 402: 0.030172
+
+training error after epoch 403: 0.009555
+validation error after epoch 403: 0.030183
+
+training error after epoch 404: 0.009535
+validation error after epoch 404: 0.030194
+
+training error after epoch 405: 0.009514
+validation error after epoch 405: 0.030206
+
+training error after epoch 406: 0.009494
+validation error after epoch 406: 0.030218
+
+training error after epoch 407: 0.009474
+validation error after epoch 407: 0.030229
+
+training error after epoch 408: 0.009454
+validation error after epoch 408: 0.030241
+
+training error after epoch 409: 0.009434
+validation error after epoch 409: 0.030253
+
+training error after epoch 410: 0.009415
+validation error after epoch 410: 0.030265
+
+training error after epoch 411: 0.009395
+validation error after epoch 411: 0.030278
+
+training error after epoch 412: 0.009376
+validation error after epoch 412: 0.030290
+
+training error after epoch 413: 0.009356
+validation error after epoch 413: 0.030302
+
+training error after epoch 414: 0.009337
+validation error after epoch 414: 0.030315
+
+training error after epoch 415: 0.009318
+validation error after epoch 415: 0.030327
+
+training error after epoch 416: 0.009299
+validation error after epoch 416: 0.030340
+
+training error after epoch 417: 0.009280
+validation error after epoch 417: 0.030353
+
+training error after epoch 418: 0.009262
+validation error after epoch 418: 0.030366
+
+training error after epoch 419: 0.009243
+validation error after epoch 419: 0.030379
+
+training error after epoch 420: 0.009225
+validation error after epoch 420: 0.030392
+
+training error after epoch 421: 0.009206
+validation error after epoch 421: 0.030405
+
+training error after epoch 422: 0.009188
+validation error after epoch 422: 0.030418
+
+training error after epoch 423: 0.009170
+validation error after epoch 423: 0.030432
+
+training error after epoch 424: 0.009152
+validation error after epoch 424: 0.030445
+
+training error after epoch 425: 0.009134
+validation error after epoch 425: 0.030459
+
+training error after epoch 426: 0.009116
+validation error after epoch 426: 0.030472
+
+training error after epoch 427: 0.009098
+validation error after epoch 427: 0.030486
+
+training error after epoch 428: 0.009081
+validation error after epoch 428: 0.030500
+
+training error after epoch 429: 0.009063
+validation error after epoch 429: 0.030513
+
+training error after epoch 430: 0.009046
+validation error after epoch 430: 0.030527
+
+training error after epoch 431: 0.009028
+validation error after epoch 431: 0.030541
+
+training error after epoch 432: 0.009011
+validation error after epoch 432: 0.030555
+
+training error after epoch 433: 0.008994
+validation error after epoch 433: 0.030569
+
+training error after epoch 434: 0.008977
+validation error after epoch 434: 0.030583
+
+training error after epoch 435: 0.008960
+validation error after epoch 435: 0.030598
+
+training error after epoch 436: 0.008943
+validation error after epoch 436: 0.030612
+
+training error after epoch 437: 0.008926
+validation error after epoch 437: 0.030626
+
+training error after epoch 438: 0.008909
+validation error after epoch 438: 0.030641
+
+training error after epoch 439: 0.008893
+validation error after epoch 439: 0.030655
+
+training error after epoch 440: 0.008876
+validation error after epoch 440: 0.030669
+
+training error after epoch 441: 0.008859
+validation error after epoch 441: 0.030684
+
+training error after epoch 442: 0.008843
+validation error after epoch 442: 0.030699
+
+training error after epoch 443: 0.008827
+validation error after epoch 443: 0.030713
+
+training error after epoch 444: 0.008810
+validation error after epoch 444: 0.030728
+
+training error after epoch 445: 0.008794
+validation error after epoch 445: 0.030743
+
+training error after epoch 446: 0.008778
+validation error after epoch 446: 0.030757
+
+training error after epoch 447: 0.008762
+validation error after epoch 447: 0.030772
+
+training error after epoch 448: 0.008746
+validation error after epoch 448: 0.030787
+
+training error after epoch 449: 0.008730
+validation error after epoch 449: 0.030802
+
+training error after epoch 450: 0.008714
+validation error after epoch 450: 0.030817
+
+training error after epoch 451: 0.008699
+validation error after epoch 451: 0.030832
+
+training error after epoch 452: 0.008683
+validation error after epoch 452: 0.030847
+
+training error after epoch 453: 0.008667
+validation error after epoch 453: 0.030862
+
+training error after epoch 454: 0.008652
+validation error after epoch 454: 0.030877
+
+training error after epoch 455: 0.008636
+validation error after epoch 455: 0.030892
+
+training error after epoch 456: 0.008621
+validation error after epoch 456: 0.030907
+
+training error after epoch 457: 0.008605
+validation error after epoch 457: 0.030923
+
+training error after epoch 458: 0.008590
+validation error after epoch 458: 0.030938
+
+training error after epoch 459: 0.008575
+validation error after epoch 459: 0.030953
+
+training error after epoch 460: 0.008559
+validation error after epoch 460: 0.030968
+
+training error after epoch 461: 0.008544
+validation error after epoch 461: 0.030984
+
+training error after epoch 462: 0.008529
+validation error after epoch 462: 0.030999
+
+training error after epoch 463: 0.008514
+validation error after epoch 463: 0.031014
+
+training error after epoch 464: 0.008499
+validation error after epoch 464: 0.031030
+
+training error after epoch 465: 0.008484
+validation error after epoch 465: 0.031045
+
+training error after epoch 466: 0.008469
+validation error after epoch 466: 0.031060
+
+training error after epoch 467: 0.008454
+validation error after epoch 467: 0.031076
+
+training error after epoch 468: 0.008440
+validation error after epoch 468: 0.031091
+
+training error after epoch 469: 0.008425
+validation error after epoch 469: 0.031107
+
+training error after epoch 470: 0.008410
+validation error after epoch 470: 0.031122
+
+training error after epoch 471: 0.008395
+validation error after epoch 471: 0.031138
+
+training error after epoch 472: 0.008381
+validation error after epoch 472: 0.031153
+
+training error after epoch 473: 0.008366
+validation error after epoch 473: 0.031169
+
+training error after epoch 474: 0.008352
+validation error after epoch 474: 0.031184
+
+training error after epoch 475: 0.008337
+validation error after epoch 475: 0.031200
+
+training error after epoch 476: 0.008323
+validation error after epoch 476: 0.031215
+
+training error after epoch 477: 0.008308
+validation error after epoch 477: 0.031231
+
+training error after epoch 478: 0.008294
+validation error after epoch 478: 0.031246
+
+training error after epoch 479: 0.008280
+validation error after epoch 479: 0.031262
+
+training error after epoch 480: 0.008266
+validation error after epoch 480: 0.031278
+
+training error after epoch 481: 0.008251
+validation error after epoch 481: 0.031293
+
+training error after epoch 482: 0.008237
+validation error after epoch 482: 0.031309
+
+training error after epoch 483: 0.008223
+validation error after epoch 483: 0.031324
+
+training error after epoch 484: 0.008209
+validation error after epoch 484: 0.031340
+
+training error after epoch 485: 0.008195
+validation error after epoch 485: 0.031356
+
+training error after epoch 486: 0.008181
+validation error after epoch 486: 0.031371
+
+training error after epoch 487: 0.008167
+validation error after epoch 487: 0.031387
+
+training error after epoch 488: 0.008153
+validation error after epoch 488: 0.031402
+
+training error after epoch 489: 0.008139
+validation error after epoch 489: 0.031418
+
+training error after epoch 490: 0.008125
+validation error after epoch 490: 0.031434
+
+training error after epoch 491: 0.008111
+validation error after epoch 491: 0.031449
+
+training error after epoch 492: 0.008097
+validation error after epoch 492: 0.031465
+
+training error after epoch 493: 0.008084
+validation error after epoch 493: 0.031481
+
+training error after epoch 494: 0.008070
+validation error after epoch 494: 0.031496
+
+training error after epoch 495: 0.008056
+validation error after epoch 495: 0.031512
+
+training error after epoch 496: 0.008043
+validation error after epoch 496: 0.031527
+
+training error after epoch 497: 0.008029
+validation error after epoch 497: 0.031543
+
+training error after epoch 498: 0.008015
+validation error after epoch 498: 0.031559
+
+training error after epoch 499: 0.008002
+validation error after epoch 499: 0.031574
+
+training error after epoch 500: 0.007988
+validation error after epoch 500: 0.031590
+
+training error after epoch 501: 0.007975
+validation error after epoch 501: 0.031606
+
+training error after epoch 502: 0.007961
+validation error after epoch 502: 0.031621
+
+training error after epoch 503: 0.007948
+validation error after epoch 503: 0.031637
+
+training error after epoch 504: 0.007935
+validation error after epoch 504: 0.031652
+
+training error after epoch 505: 0.007921
+validation error after epoch 505: 0.031668
+
+training error after epoch 506: 0.007908
+validation error after epoch 506: 0.031684
+
+training error after epoch 507: 0.007895
+validation error after epoch 507: 0.031699
+
+training error after epoch 508: 0.007881
+validation error after epoch 508: 0.031715
+
+training error after epoch 509: 0.007868
+validation error after epoch 509: 0.031731
+
+training error after epoch 510: 0.007855
+validation error after epoch 510: 0.031746
+
+training error after epoch 511: 0.007842
+validation error after epoch 511: 0.031762
+
+training error after epoch 512: 0.007829
+validation error after epoch 512: 0.031777
+
+training error after epoch 513: 0.007815
+validation error after epoch 513: 0.031793
+
+training error after epoch 514: 0.007802
+validation error after epoch 514: 0.031808
+
+training error after epoch 515: 0.007789
+validation error after epoch 515: 0.031824
+
+training error after epoch 516: 0.007776
+validation error after epoch 516: 0.031840
+
+training error after epoch 517: 0.007763
+validation error after epoch 517: 0.031855
+
+training error after epoch 518: 0.007750
+validation error after epoch 518: 0.031871
+
+training error after epoch 519: 0.007737
+validation error after epoch 519: 0.031886
+
+training error after epoch 520: 0.007725
+validation error after epoch 520: 0.031902
+
+training error after epoch 521: 0.007712
+validation error after epoch 521: 0.031917
+
+training error after epoch 522: 0.007699
+validation error after epoch 522: 0.031933
+
+training error after epoch 523: 0.007686
+validation error after epoch 523: 0.031948
+
+training error after epoch 524: 0.007673
+validation error after epoch 524: 0.031964
+
+training error after epoch 525: 0.007661
+validation error after epoch 525: 0.031979
+
+training error after epoch 526: 0.007648
+validation error after epoch 526: 0.031995
+
+training error after epoch 527: 0.007635
+validation error after epoch 527: 0.032010
+
+training error after epoch 528: 0.007622
+validation error after epoch 528: 0.032026
+
+training error after epoch 529: 0.007610
+validation error after epoch 529: 0.032041
+
+training error after epoch 530: 0.007597
+validation error after epoch 530: 0.032057
+
+training error after epoch 531: 0.007585
+validation error after epoch 531: 0.032072
+
+training error after epoch 532: 0.007572
+validation error after epoch 532: 0.032088
+
+training error after epoch 533: 0.007560
+validation error after epoch 533: 0.032103
+
+training error after epoch 534: 0.007547
+validation error after epoch 534: 0.032119
+
+training error after epoch 535: 0.007535
+validation error after epoch 535: 0.032134
+
+training error after epoch 536: 0.007522
+validation error after epoch 536: 0.032149
+
+training error after epoch 537: 0.007510
+validation error after epoch 537: 0.032165
+
+training error after epoch 538: 0.007498
+validation error after epoch 538: 0.032180
+
+training error after epoch 539: 0.007485
+validation error after epoch 539: 0.032196
+
+training error after epoch 540: 0.007473
+validation error after epoch 540: 0.032211
+
+training error after epoch 541: 0.007461
+validation error after epoch 541: 0.032226
+
+training error after epoch 542: 0.007448
+validation error after epoch 542: 0.032242
+
+training error after epoch 543: 0.007436
+validation error after epoch 543: 0.032257
+
+training error after epoch 544: 0.007424
+validation error after epoch 544: 0.032273
+
+training error after epoch 545: 0.007412
+validation error after epoch 545: 0.032288
+
+training error after epoch 546: 0.007400
+validation error after epoch 546: 0.032303
+
+training error after epoch 547: 0.007387
+validation error after epoch 547: 0.032318
+
+training error after epoch 548: 0.007375
+validation error after epoch 548: 0.032334
+
+training error after epoch 549: 0.007363
+validation error after epoch 549: 0.032349
+
+training error after epoch 550: 0.007351
+validation error after epoch 550: 0.032364
+
+training error after epoch 551: 0.007339
+validation error after epoch 551: 0.032380
+
+training error after epoch 552: 0.007327
+validation error after epoch 552: 0.032395
+
+training error after epoch 553: 0.007315
+validation error after epoch 553: 0.032410
+
+training error after epoch 554: 0.007303
+validation error after epoch 554: 0.032425
+
+training error after epoch 555: 0.007292
+validation error after epoch 555: 0.032441
+
+training error after epoch 556: 0.007280
+validation error after epoch 556: 0.032456
+
+training error after epoch 557: 0.007268
+validation error after epoch 557: 0.032471
+
+training error after epoch 558: 0.007256
+validation error after epoch 558: 0.032486
+
+training error after epoch 559: 0.007244
+validation error after epoch 559: 0.032501
+
+training error after epoch 560: 0.007232
+validation error after epoch 560: 0.032517
+
+training error after epoch 561: 0.007221
+validation error after epoch 561: 0.032532
+
+training error after epoch 562: 0.007209
+validation error after epoch 562: 0.032547
+
+training error after epoch 563: 0.007197
+validation error after epoch 563: 0.032562
+
+training error after epoch 564: 0.007185
+validation error after epoch 564: 0.032577
+
+training error after epoch 565: 0.007174
+validation error after epoch 565: 0.032592
+
+training error after epoch 566: 0.007162
+validation error after epoch 566: 0.032607
+
+training error after epoch 567: 0.007151
+validation error after epoch 567: 0.032622
+
+training error after epoch 568: 0.007139
+validation error after epoch 568: 0.032638
+
+training error after epoch 569: 0.007127
+validation error after epoch 569: 0.032653
+
+training error after epoch 570: 0.007116
+validation error after epoch 570: 0.032668
+
+training error after epoch 571: 0.007104
+validation error after epoch 571: 0.032683
+
+training error after epoch 572: 0.007093
+validation error after epoch 572: 0.032698
+
+training error after epoch 573: 0.007081
+validation error after epoch 573: 0.032713
+
+training error after epoch 574: 0.007070
+validation error after epoch 574: 0.032728
+
+training error after epoch 575: 0.007059
+validation error after epoch 575: 0.032743
+
+training error after epoch 576: 0.007047
+validation error after epoch 576: 0.032758
+
+training error after epoch 577: 0.007036
+validation error after epoch 577: 0.032772
+
+training error after epoch 578: 0.007024
+validation error after epoch 578: 0.032787
+
+training error after epoch 579: 0.007013
+validation error after epoch 579: 0.032802
+
+training error after epoch 580: 0.007002
+validation error after epoch 580: 0.032817
+
+training error after epoch 581: 0.006990
+validation error after epoch 581: 0.032832
+
+training error after epoch 582: 0.006979
+validation error after epoch 582: 0.032847
+
+training error after epoch 583: 0.006968
+validation error after epoch 583: 0.032862
+
+training error after epoch 584: 0.006957
+validation error after epoch 584: 0.032877
+
+training error after epoch 585: 0.006945
+validation error after epoch 585: 0.032891
+
+training error after epoch 586: 0.006934
+validation error after epoch 586: 0.032906
+
+training error after epoch 587: 0.006923
+validation error after epoch 587: 0.032921
+
+training error after epoch 588: 0.006912
+validation error after epoch 588: 0.032936
+
+training error after epoch 589: 0.006901
+validation error after epoch 589: 0.032950
+
+training error after epoch 590: 0.006889
+validation error after epoch 590: 0.032965
+
+training error after epoch 591: 0.006878
+validation error after epoch 591: 0.032980
+
+training error after epoch 592: 0.006867
+validation error after epoch 592: 0.032994
+
+training error after epoch 593: 0.006856
+validation error after epoch 593: 0.033009
+
+training error after epoch 594: 0.006845
+validation error after epoch 594: 0.033024
+
+training error after epoch 595: 0.006834
+validation error after epoch 595: 0.033038
+
+training error after epoch 596: 0.006823
+validation error after epoch 596: 0.033053
+
+training error after epoch 597: 0.006812
+validation error after epoch 597: 0.033068
+
+training error after epoch 598: 0.006801
+validation error after epoch 598: 0.033082
+
+training error after epoch 599: 0.006790
+validation error after epoch 599: 0.033097
+
+training error after epoch 600: 0.006779
+validation error after epoch 600: 0.033111
+
+training error after epoch 601: 0.006768
+validation error after epoch 601: 0.033126
+
+training error after epoch 602: 0.006757
+validation error after epoch 602: 0.033140
+
+training error after epoch 603: 0.006746
+validation error after epoch 603: 0.033155
+
+training error after epoch 604: 0.006735
+validation error after epoch 604: 0.033169
+
+training error after epoch 605: 0.006724
+validation error after epoch 605: 0.033183
+
+training error after epoch 606: 0.006714
+validation error after epoch 606: 0.033198
+
+training error after epoch 607: 0.006703
+validation error after epoch 607: 0.033212
+
+training error after epoch 608: 0.006692
+validation error after epoch 608: 0.033226
+
+training error after epoch 609: 0.006681
+validation error after epoch 609: 0.033241
+
+training error after epoch 610: 0.006670
+validation error after epoch 610: 0.033255
+
+training error after epoch 611: 0.006659
+validation error after epoch 611: 0.033269
+
+training error after epoch 612: 0.006649
+validation error after epoch 612: 0.033284
+
+training error after epoch 613: 0.006638
+validation error after epoch 613: 0.033298
+
+training error after epoch 614: 0.006627
+validation error after epoch 614: 0.033312
+
+training error after epoch 615: 0.006616
+validation error after epoch 615: 0.033326
+
+training error after epoch 616: 0.006605
+validation error after epoch 616: 0.033340
+
+training error after epoch 617: 0.006595
+validation error after epoch 617: 0.033354
+
+training error after epoch 618: 0.006584
+validation error after epoch 618: 0.033369
+
+training error after epoch 619: 0.006573
+validation error after epoch 619: 0.033383
+
+training error after epoch 620: 0.006563
+validation error after epoch 620: 0.033397
+
+training error after epoch 621: 0.006552
+validation error after epoch 621: 0.033411
+
+training error after epoch 622: 0.006541
+validation error after epoch 622: 0.033425
+
+training error after epoch 623: 0.006531
+validation error after epoch 623: 0.033439
+
+training error after epoch 624: 0.006520
+validation error after epoch 624: 0.033453
+
+training error after epoch 625: 0.006509
+validation error after epoch 625: 0.033467
+
+training error after epoch 626: 0.006499
+validation error after epoch 626: 0.033481
+
+training error after epoch 627: 0.006488
+validation error after epoch 627: 0.033494
+
+training error after epoch 628: 0.006477
+validation error after epoch 628: 0.033508
+
+training error after epoch 629: 0.006467
+validation error after epoch 629: 0.033522
+
+training error after epoch 630: 0.006456
+validation error after epoch 630: 0.033536
+
+training error after epoch 631: 0.006445
+validation error after epoch 631: 0.033550
+
+training error after epoch 632: 0.006435
+validation error after epoch 632: 0.033563
+
+training error after epoch 633: 0.006424
+validation error after epoch 633: 0.033577
+
+training error after epoch 634: 0.006414
+validation error after epoch 634: 0.033591
+
+training error after epoch 635: 0.006403
+validation error after epoch 635: 0.033605
+
+training error after epoch 636: 0.006393
+validation error after epoch 636: 0.033618
+
+training error after epoch 637: 0.006382
+validation error after epoch 637: 0.033632
+
+training error after epoch 638: 0.006372
+validation error after epoch 638: 0.033645
+
+training error after epoch 639: 0.006361
+validation error after epoch 639: 0.033659
+
+training error after epoch 640: 0.006351
+validation error after epoch 640: 0.033673
+
+training error after epoch 641: 0.006340
+validation error after epoch 641: 0.033686
+
+training error after epoch 642: 0.006330
+validation error after epoch 642: 0.033700
+
+training error after epoch 643: 0.006319
+validation error after epoch 643: 0.033713
+
+training error after epoch 644: 0.006309
+validation error after epoch 644: 0.033727
+
+training error after epoch 645: 0.006298
+validation error after epoch 645: 0.033740
+
+training error after epoch 646: 0.006288
+validation error after epoch 646: 0.033753
+
+training error after epoch 647: 0.006277
+validation error after epoch 647: 0.033767
+
+training error after epoch 648: 0.006267
+validation error after epoch 648: 0.033780
+
+training error after epoch 649: 0.006256
+validation error after epoch 649: 0.033793
+
+training error after epoch 650: 0.006246
+validation error after epoch 650: 0.033807
+
+training error after epoch 651: 0.006235
+validation error after epoch 651: 0.033820
+
+training error after epoch 652: 0.006225
+validation error after epoch 652: 0.033833
+
+training error after epoch 653: 0.006215
+validation error after epoch 653: 0.033846
+
+training error after epoch 654: 0.006204
+validation error after epoch 654: 0.033860
+
+training error after epoch 655: 0.006194
+validation error after epoch 655: 0.033873
+
+training error after epoch 656: 0.006183
+validation error after epoch 656: 0.033886
+
+training error after epoch 657: 0.006173
+validation error after epoch 657: 0.033899
+
+training error after epoch 658: 0.006163
+validation error after epoch 658: 0.033912
+
+training error after epoch 659: 0.006152
+validation error after epoch 659: 0.033925
+
+training error after epoch 660: 0.006142
+validation error after epoch 660: 0.033938
+
+training error after epoch 661: 0.006132
+validation error after epoch 661: 0.033951
+
+training error after epoch 662: 0.006121
+validation error after epoch 662: 0.033964
+
+training error after epoch 663: 0.006111
+validation error after epoch 663: 0.033977
+
+training error after epoch 664: 0.006101
+validation error after epoch 664: 0.033990
+
+training error after epoch 665: 0.006090
+validation error after epoch 665: 0.034003
+
+training error after epoch 666: 0.006080
+validation error after epoch 666: 0.034016
+
+training error after epoch 667: 0.006070
+validation error after epoch 667: 0.034029
+
+training error after epoch 668: 0.006059
+validation error after epoch 668: 0.034042
+
+training error after epoch 669: 0.006049
+validation error after epoch 669: 0.034054
+
+training error after epoch 670: 0.006039
+validation error after epoch 670: 0.034067
+
+training error after epoch 671: 0.006028
+validation error after epoch 671: 0.034080
+
+training error after epoch 672: 0.006018
+validation error after epoch 672: 0.034093
+
+training error after epoch 673: 0.006008
+validation error after epoch 673: 0.034105
+
+training error after epoch 674: 0.005998
+validation error after epoch 674: 0.034118
+
+training error after epoch 675: 0.005987
+validation error after epoch 675: 0.034131
+
+training error after epoch 676: 0.005977
+validation error after epoch 676: 0.034143
+
+training error after epoch 677: 0.005967
+validation error after epoch 677: 0.034156
+
+training error after epoch 678: 0.005957
+validation error after epoch 678: 0.034169
+
+training error after epoch 679: 0.005946
+validation error after epoch 679: 0.034181
+
+training error after epoch 680: 0.005936
+validation error after epoch 680: 0.034194
+
+training error after epoch 681: 0.005926
+validation error after epoch 681: 0.034206
+
+training error after epoch 682: 0.005916
+validation error after epoch 682: 0.034219
+
+training error after epoch 683: 0.005906
+validation error after epoch 683: 0.034231
+
+training error after epoch 684: 0.005895
+validation error after epoch 684: 0.034244
+
+training error after epoch 685: 0.005885
+validation error after epoch 685: 0.034256
+
+training error after epoch 686: 0.005875
+validation error after epoch 686: 0.034268
+
+training error after epoch 687: 0.005865
+validation error after epoch 687: 0.034281
+
+training error after epoch 688: 0.005855
+validation error after epoch 688: 0.034293
+
+training error after epoch 689: 0.005845
+validation error after epoch 689: 0.034306
+
+training error after epoch 690: 0.005834
+validation error after epoch 690: 0.034318
+
+training error after epoch 691: 0.005824
+validation error after epoch 691: 0.034330
+
+training error after epoch 692: 0.005814
+validation error after epoch 692: 0.034342
+
+training error after epoch 693: 0.005804
+validation error after epoch 693: 0.034355
+
+training error after epoch 694: 0.005794
+validation error after epoch 694: 0.034367
+
+training error after epoch 695: 0.005784
+validation error after epoch 695: 0.034379
+
+training error after epoch 696: 0.005774
+validation error after epoch 696: 0.034391
+
+training error after epoch 697: 0.005764
+validation error after epoch 697: 0.034403
+
+training error after epoch 698: 0.005755
+validation error after epoch 698: 0.034417
+
+training error after epoch 699: 0.005718
+validation error after epoch 699: 0.034403
+
+training error after epoch 700: 0.006376
+validation error after epoch 700: 0.035060
+
+training error after epoch 701: 0.006125
+validation error after epoch 701: 0.034859
+
+training error after epoch 702: 0.011657
+validation error after epoch 702: 0.039629
+
+training error after epoch 703: 0.005047
+validation error after epoch 703: 0.033101
+
+training error after epoch 704: 0.005547
+validation error after epoch 704: 0.033673
+
+training error after epoch 705: 0.005603
+validation error after epoch 705: 0.033809
+
+training error after epoch 706: 0.005617
+validation error after epoch 706: 0.033891
+
+training error after epoch 707: 0.005641
+validation error after epoch 707: 0.033971
+
+training error after epoch 708: 0.005683
+validation error after epoch 708: 0.034062
+
+training error after epoch 709: 0.005674
+validation error after epoch 709: 0.034100
+
+training error after epoch 710: 0.005643
+validation error after epoch 710: 0.034112
+
+training error after epoch 711: 0.005589
+validation error after epoch 711: 0.034101
+
+training error after epoch 712: 0.005551
+validation error after epoch 712: 0.034103
+
+training error after epoch 713: 0.005509
+validation error after epoch 713: 0.034100
+
+training error after epoch 714: 0.005458
+validation error after epoch 714: 0.034086
+
+training error after epoch 715: 0.005450
+validation error after epoch 715: 0.034113
+
+training error after epoch 716: 0.005473
+validation error after epoch 716: 0.034168
+
+training error after epoch 717: 0.005359
+validation error after epoch 717: 0.034093
+
+training error after epoch 718: 0.005538
+validation error after epoch 718: 0.034295
+
+training error after epoch 719: 0.005369
+validation error after epoch 719: 0.034163
+
+training error after epoch 720: 0.004805
+validation error after epoch 720: 0.033667
+
+training error after epoch 721: 0.009339
+validation error after epoch 721: 0.037975
+
+training error after epoch 722: 0.004822
+validation error after epoch 722: 0.033368
+
+training error after epoch 723: 0.004928
+validation error after epoch 723: 0.033430
+
+training error after epoch 724: 0.005770
+validation error after epoch 724: 0.034301
+
+training error after epoch 725: 0.005067
+validation error after epoch 725: 0.033698
+
+training error after epoch 726: 0.005668
+validation error after epoch 726: 0.034323
+
+training error after epoch 727: 0.005358
+validation error after epoch 727: 0.034079
+
+training error after epoch 728: 0.005303
+validation error after epoch 728: 0.034076
+
+training error after epoch 729: 0.005997
+validation error after epoch 729: 0.034783
+
+training error after epoch 730: 0.005017
+validation error after epoch 730: 0.033886
+
+training error after epoch 731: 0.005458
+validation error after epoch 731: 0.034333
+
+training error after epoch 732: 0.008072
+validation error after epoch 732: 0.036876
+
+training error after epoch 733: 0.006420
+validation error after epoch 733: 0.035435
+
+training error after epoch 734: 0.009675
+validation error after epoch 734: 0.038272
+
+training error after epoch 735: 0.004779
+validation error after epoch 735: 0.033517
+
+training error after epoch 736: 0.005080
+validation error after epoch 736: 0.033844
+
+training error after epoch 737: 0.005636
+validation error after epoch 737: 0.034437
+
+training error after epoch 738: 0.004886
+validation error after epoch 738: 0.033785
+
+training error after epoch 739: 0.005696
+validation error after epoch 739: 0.034599
+
+training error after epoch 740: 0.005295
+validation error after epoch 740: 0.034257
+
+training error after epoch 741: 0.004775
+validation error after epoch 741: 0.033810
+
+training error after epoch 742: 0.008536
+validation error after epoch 742: 0.037462
+
+training error after epoch 743: 0.004893
+validation error after epoch 743: 0.033982
+
+training error after epoch 744: 0.005973
+validation error after epoch 744: 0.034863
+
+training error after epoch 745: 0.005997
+validation error after epoch 745: 0.034894
+
+training error after epoch 746: 0.004589
+validation error after epoch 746: 0.033631
+
+training error after epoch 747: 0.007044
+validation error after epoch 747: 0.035971
+
+training error after epoch 748: 0.004628
+validation error after epoch 748: 0.033684
+
+training error after epoch 749: 0.005139
+validation error after epoch 749: 0.034177
+
+training error after epoch 750: 0.006304
+validation error after epoch 750: 0.035331
+
+training error after epoch 751: 0.004576
+validation error after epoch 751: 0.033753
+
+training error after epoch 752: 0.007495
+validation error after epoch 752: 0.036506
+
+training error after epoch 753: 0.004670
+validation error after epoch 753: 0.033783
+
+training error after epoch 754: 0.004709
+validation error after epoch 754: 0.033839
+
+training error after epoch 755: 0.007173
+validation error after epoch 755: 0.036235
+
+training error after epoch 756: 0.004611
+validation error after epoch 756: 0.033850
+
+training error after epoch 757: 0.006528
+validation error after epoch 757: 0.035612
+
+training error after epoch 758: 0.005005
+validation error after epoch 758: 0.034163
+
+training error after epoch 759: 0.004541
+validation error after epoch 759: 0.033777
+
+training error after epoch 760: 0.007231
+validation error after epoch 760: 0.036376
+
+training error after epoch 761: 0.004501
+validation error after epoch 761: 0.033798
+
+training error after epoch 762: 0.005805
+validation error after epoch 762: 0.034984
+
+training error after epoch 763: 0.005371
+validation error after epoch 763: 0.034591
+
+training error after epoch 764: 0.004450
+validation error after epoch 764: 0.033791
+
+training error after epoch 765: 0.007564
+validation error after epoch 765: 0.036769
+
+training error after epoch 766: 0.004442
+validation error after epoch 766: 0.033792
+
+training error after epoch 767: 0.005200
+validation error after epoch 767: 0.034475
+
+training error after epoch 768: 0.005893
+validation error after epoch 768: 0.035175
+
+training error after epoch 769: 0.004447
+validation error after epoch 769: 0.033883
+
+training error after epoch 770: 0.007291
+validation error after epoch 770: 0.036565
+
+training error after epoch 771: 0.004447
+validation error after epoch 771: 0.033838
+
+training error after epoch 772: 0.004779
+validation error after epoch 772: 0.034154
+
+training error after epoch 773: 0.006239
+validation error after epoch 773: 0.035592
+
+training error after epoch 774: 0.004436
+validation error after epoch 774: 0.033948
+
+training error after epoch 775: 0.006726
+validation error after epoch 775: 0.036078
+
+training error after epoch 776: 0.004588
+validation error after epoch 776: 0.034034
+
+training error after epoch 777: 0.004491
+validation error after epoch 777: 0.033978
+
+training error after epoch 778: 0.006912
+validation error after epoch 778: 0.036326
+
+training error after epoch 779: 0.004461
+validation error after epoch 779: 0.034043
+
+training error after epoch 780: 0.006113
+validation error after epoch 780: 0.035535
+
+training error after epoch 781: 0.004861
+validation error after epoch 781: 0.034356
+
+training error after epoch 782: 0.004360
+validation error after epoch 782: 0.033946
+
+training error after epoch 783: 0.007017
+validation error after epoch 783: 0.036506
+
+training error after epoch 784: 0.004359
+validation error after epoch 784: 0.033999
+
+training error after epoch 785: 0.005476
+validation error after epoch 785: 0.034993
+
+training error after epoch 786: 0.005191
+validation error after epoch 786: 0.034751
+
+training error after epoch 787: 0.004292
+validation error after epoch 787: 0.033980
+
+training error after epoch 788: 0.007213
+validation error after epoch 788: 0.036761
+
+training error after epoch 789: 0.004287
+validation error after epoch 789: 0.033972
+
+training error after epoch 790: 0.004969
+validation error after epoch 790: 0.034581
+
+training error after epoch 791: 0.005558
+validation error after epoch 791: 0.035186
+
+training error after epoch 792: 0.004291
+validation error after epoch 792: 0.034073
+
+training error after epoch 793: 0.007035
+validation error after epoch 793: 0.036652
+
+training error after epoch 794: 0.004272
+validation error after epoch 794: 0.034004
+
+training error after epoch 795: 0.004605
+validation error after epoch 795: 0.034317
+
+training error after epoch 796: 0.005942
+validation error after epoch 796: 0.035638
+
+training error after epoch 797: 0.004307
+validation error after epoch 797: 0.034167
+
+training error after epoch 798: 0.006541
+validation error after epoch 798: 0.036225
+
+training error after epoch 799: 0.004373
+validation error after epoch 799: 0.034155
+
+training error after epoch 800: 0.004367
+validation error after epoch 800: 0.034185
+
+training error after epoch 801: 0.006398
+validation error after epoch 801: 0.036163
+
+training error after epoch 802: 0.004324
+validation error after epoch 802: 0.034253
+
+training error after epoch 803: 0.006006
+validation error after epoch 803: 0.035762
+
+training error after epoch 804: 0.004572
+validation error after epoch 804: 0.034408
+
+training error after epoch 805: 0.004223
+validation error after epoch 805: 0.034144
+
+training error after epoch 806: 0.006712
+validation error after epoch 806: 0.036544
+
+training error after epoch 807: 0.004264
+validation error after epoch 807: 0.034249
+
+training error after epoch 808: 0.005430
+validation error after epoch 808: 0.035269
+
+training error after epoch 809: 0.004811
+validation error after epoch 809: 0.034712
+
+training error after epoch 810: 0.004147
+validation error after epoch 810: 0.034167
+
+training error after epoch 811: 0.006879
+validation error after epoch 811: 0.036776
+
+training error after epoch 812: 0.004176
+validation error after epoch 812: 0.034211
+
+training error after epoch 813: 0.004962
+validation error after epoch 813: 0.034892
+
+training error after epoch 814: 0.005081
+validation error after epoch 814: 0.035051
+
+training error after epoch 815: 0.004124
+validation error after epoch 815: 0.034240
+
+training error after epoch 816: 0.006888
+validation error after epoch 816: 0.036846
+
+training error after epoch 817: 0.004106
+validation error after epoch 817: 0.034186
+
+training error after epoch 818: 0.004599
+validation error after epoch 818: 0.034624
+
+training error after epoch 819: 0.005373
+validation error after epoch 819: 0.035413
+
+training error after epoch 820: 0.004143
+validation error after epoch 820: 0.034344
+
+training error after epoch 821: 0.006620
+validation error after epoch 821: 0.036640
+
+training error after epoch 822: 0.004106
+validation error after epoch 822: 0.034234
+
+training error after epoch 823: 0.004341
+validation error after epoch 823: 0.034468
+
+training error after epoch 824: 0.005720
+validation error after epoch 824: 0.035830
+
+training error after epoch 825: 0.004182
+validation error after epoch 825: 0.034457
+
+training error after epoch 826: 0.006201
+validation error after epoch 826: 0.036285
+
+training error after epoch 827: 0.004197
+validation error after epoch 827: 0.034377
+
+training error after epoch 828: 0.004165
+validation error after epoch 828: 0.034394
+
+training error after epoch 829: 0.006089
+validation error after epoch 829: 0.036267
+
+training error after epoch 830: 0.004193
+validation error after epoch 830: 0.034531
+
+training error after epoch 831: 0.005700
+validation error after epoch 831: 0.035854
+
+training error after epoch 832: 0.004349
+validation error after epoch 832: 0.034589
+
+training error after epoch 833: 0.004052
+validation error after epoch 833: 0.034380
+
+training error after epoch 834: 0.006379
+validation error after epoch 834: 0.036623
+
+training error after epoch 835: 0.004145
+validation error after epoch 835: 0.034538
+
+training error after epoch 836: 0.005224
+validation error after epoch 836: 0.035457
+
+training error after epoch 837: 0.004523
+validation error after epoch 837: 0.034828
+
+training error after epoch 838: 0.003981
+validation error after epoch 838: 0.034406
+
+training error after epoch 839: 0.006579
+validation error after epoch 839: 0.036885
+
+training error after epoch 840: 0.004059
+validation error after epoch 840: 0.034501
+
+training error after epoch 841: 0.004821
+validation error after epoch 841: 0.035139
+
+training error after epoch 842: 0.004707
+validation error after epoch 842: 0.035082
+
+training error after epoch 843: 0.003950
+validation error after epoch 843: 0.034468
+
+training error after epoch 844: 0.006630
+validation error after epoch 844: 0.036996
+
+training error after epoch 845: 0.003967
+validation error after epoch 845: 0.034455
+
+training error after epoch 846: 0.004503
+validation error after epoch 846: 0.034912
+
+training error after epoch 847: 0.004911
+validation error after epoch 847: 0.035358
+
+training error after epoch 848: 0.003961
+validation error after epoch 848: 0.034566
+
+training error after epoch 849: 0.006514
+validation error after epoch 849: 0.036937
+
+training error after epoch 850: 0.003912
+validation error after epoch 850: 0.034446
+
+training error after epoch 851: 0.004264
+validation error after epoch 851: 0.034768
+
+training error after epoch 852: 0.005157
+validation error after epoch 852: 0.035675
+
+training error after epoch 853: 0.004006
+validation error after epoch 853: 0.034690
+
+training error after epoch 854: 0.006242
+validation error after epoch 854: 0.036722
+
+training error after epoch 855: 0.003921
+validation error after epoch 855: 0.034505
+
+training error after epoch 856: 0.004089
+validation error after epoch 856: 0.034691
+
+training error after epoch 857: 0.005441
+validation error after epoch 857: 0.036028
+
+training error after epoch 858: 0.004054
+validation error after epoch 858: 0.034806
+
+training error after epoch 859: 0.005859
+validation error after epoch 859: 0.036400
+
+training error after epoch 860: 0.003990
+validation error after epoch 860: 0.034631
+
+training error after epoch 861: 0.003964
+validation error after epoch 861: 0.034662
+
+training error after epoch 862: 0.005738
+validation error after epoch 862: 0.036393
+
+training error after epoch 863: 0.004072
+validation error after epoch 863: 0.034883
+
+training error after epoch 864: 0.005443
+validation error after epoch 864: 0.036051
+
+training error after epoch 865: 0.004092
+validation error after epoch 865: 0.034795
+
+training error after epoch 866: 0.003872
+validation error after epoch 866: 0.034665
+
+training error after epoch 867: 0.006006
+validation error after epoch 867: 0.036724
+
+training error after epoch 868: 0.004040
+validation error after epoch 868: 0.034905
+
+training error after epoch 869: 0.005051
+validation error after epoch 869: 0.035733
+
+training error after epoch 870: 0.004203
+validation error after epoch 870: 0.034973
+
+training error after epoch 871: 0.003806
+validation error after epoch 871: 0.034692
+
+training error after epoch 872: 0.006206
+validation error after epoch 872: 0.036986
+
+training error after epoch 873: 0.003966
+validation error after epoch 873: 0.034878
+
+training error after epoch 874: 0.004711
+validation error after epoch 874: 0.035473
+
+training error after epoch 875: 0.004318
+validation error after epoch 875: 0.035158
+
+training error after epoch 876: 0.003765
+validation error after epoch 876: 0.034741
+
+training error after epoch 877: 0.006324
+validation error after epoch 877: 0.037162
+
+training error after epoch 878: 0.003869
+validation error after epoch 878: 0.034828
+
+training error after epoch 879: 0.004431
+validation error after epoch 879: 0.035278
+
+training error after epoch 880: 0.004440
+validation error after epoch 880: 0.035352
+
+training error after epoch 881: 0.003755
+validation error after epoch 881: 0.034819
+
+training error after epoch 882: 0.006340
+validation error after epoch 882: 0.037233
+
+training error after epoch 883: 0.003777
+validation error after epoch 883: 0.034782
+
+training error after epoch 884: 0.004210
+validation error after epoch 884: 0.035144
+
+training error after epoch 885: 0.004580
+validation error after epoch 885: 0.035563
+
+training error after epoch 886: 0.003780
+validation error after epoch 886: 0.034926
+
+training error after epoch 887: 0.006245
+validation error after epoch 887: 0.037191
+
+training error after epoch 888: 0.003713
+validation error after epoch 888: 0.034766
+
+training error after epoch 889: 0.004039
+validation error after epoch 889: 0.035063
+
+training error after epoch 890: 0.004746
+validation error after epoch 890: 0.035800
+
+training error after epoch 891: 0.003833
+validation error after epoch 891: 0.035055
+
+training error after epoch 892: 0.006044
+validation error after epoch 892: 0.037043
+
+training error after epoch 893: 0.003691
+validation error after epoch 893: 0.034796
+
+training error after epoch 894: 0.003909
+validation error after epoch 894: 0.035023
+
+training error after epoch 895: 0.004940
+validation error after epoch 895: 0.036063
+
+training error after epoch 896: 0.003894
+validation error after epoch 896: 0.035184
+
+training error after epoch 897: 0.005768
+validation error after epoch 897: 0.036823
+
+training error after epoch 898: 0.003709
+validation error after epoch 898: 0.034870
+
+training error after epoch 899: 0.003809
+validation error after epoch 899: 0.035013
+
+training error after epoch 900: 0.005153
+validation error after epoch 900: 0.036343
+
+training error after epoch 901: 0.003942
+validation error after epoch 901: 0.035292
+
+training error after epoch 902: 0.005458
+validation error after epoch 902: 0.036572
+
+training error after epoch 903: 0.003752
+validation error after epoch 903: 0.034974
+
+training error after epoch 904: 0.003727
+validation error after epoch 904: 0.035020
+
+training error after epoch 905: 0.005370
+validation error after epoch 905: 0.036625
+
+training error after epoch 906: 0.003959
+validation error after epoch 906: 0.035365
+
+training error after epoch 907: 0.005146
+validation error after epoch 907: 0.036326
+
+training error after epoch 908: 0.003805
+validation error after epoch 908: 0.035092
+
+training error after epoch 909: 0.003659
+validation error after epoch 909: 0.035039
+
+training error after epoch 910: 0.005574
+validation error after epoch 910: 0.036891
+
+training error after epoch 911: 0.003940
+validation error after epoch 911: 0.035398
+
+training error after epoch 912: 0.004853
+validation error after epoch 912: 0.036102
+
+training error after epoch 913: 0.003861
+validation error after epoch 913: 0.035215
+
+training error after epoch 914: 0.003602
+validation error after epoch 914: 0.035068
+
+training error after epoch 915: 0.005754
+validation error after epoch 915: 0.037130
+
+training error after epoch 916: 0.003889
+validation error after epoch 916: 0.035395
+
+training error after epoch 917: 0.004590
+validation error after epoch 917: 0.035911
+
+training error after epoch 918: 0.003918
+validation error after epoch 918: 0.035341
+
+training error after epoch 919: 0.003557
+validation error after epoch 919: 0.035108
+
+training error after epoch 920: 0.005897
+validation error after epoch 920: 0.037330
+
+training error after epoch 921: 0.003812
+validation error after epoch 921: 0.035366
+
+training error after epoch 922: 0.004360
+validation error after epoch 922: 0.035758
+
+training error after epoch 923: 0.003977
+validation error after epoch 923: 0.035468
+
+training error after epoch 924: 0.003528
+validation error after epoch 924: 0.035162
+
+training error after epoch 925: 0.005995
+validation error after epoch 925: 0.037483
+
+training error after epoch 926: 0.003720
+validation error after epoch 926: 0.035321
+
+training error after epoch 927: 0.004166
+validation error after epoch 927: 0.035642
+
+training error after epoch 928: 0.004038
+validation error after epoch 928: 0.035600
+
+training error after epoch 929: 0.003519
+validation error after epoch 929: 0.035235
+
+training error after epoch 930: 0.006041
+validation error after epoch 930: 0.037581
+
+training error after epoch 931: 0.003627
+validation error after epoch 931: 0.035275
+
+training error after epoch 932: 0.004005
+validation error after epoch 932: 0.035561
+
+training error after epoch 933: 0.004106
+validation error after epoch 933: 0.035738
+
+training error after epoch 934: 0.003533
+validation error after epoch 934: 0.035328
+
+training error after epoch 935: 0.006031
+validation error after epoch 935: 0.037622
+
+training error after epoch 936: 0.003544
+validation error after epoch 936: 0.035240
+
+training error after epoch 937: 0.003875
+validation error after epoch 937: 0.035512
+
+training error after epoch 938: 0.004182
+validation error after epoch 938: 0.035883
+
+training error after epoch 939: 0.003571
+validation error after epoch 939: 0.035441
+
+training error after epoch 940: 0.005964
+validation error after epoch 940: 0.037605
+
+training error after epoch 941: 0.003480
+validation error after epoch 941: 0.035226
+
+training error after epoch 942: 0.003771
+validation error after epoch 942: 0.035489
+
+training error after epoch 943: 0.004265
+validation error after epoch 943: 0.036035
+
+training error after epoch 944: 0.003624
+validation error after epoch 944: 0.035565
+
+training error after epoch 945: 0.005849
+validation error after epoch 945: 0.037540
+
+training error after epoch 946: 0.003438
+validation error after epoch 946: 0.035236
+
+training error after epoch 947: 0.003689
+validation error after epoch 947: 0.035487
+
+training error after epoch 948: 0.004354
+validation error after epoch 948: 0.036192
+
+training error after epoch 949: 0.003682
+validation error after epoch 949: 0.035690
+
+training error after epoch 950: 0.005702
+validation error after epoch 950: 0.037444
+
+training error after epoch 951: 0.003414
+validation error after epoch 951: 0.035269
+
+training error after epoch 952: 0.003622
+validation error after epoch 952: 0.035499
+
+training error after epoch 953: 0.004446
+validation error after epoch 953: 0.036349
+
+training error after epoch 954: 0.003736
+validation error after epoch 954: 0.035807
+
+training error after epoch 955: 0.005537
+validation error after epoch 955: 0.037334
+
+training error after epoch 956: 0.003404
+validation error after epoch 956: 0.035317
+
+training error after epoch 957: 0.003564
+validation error after epoch 957: 0.035519
+
+training error after epoch 958: 0.004538
+validation error after epoch 958: 0.036505
+
+training error after epoch 959: 0.003780
+validation error after epoch 959: 0.035912
+
+training error after epoch 960: 0.005368
+validation error after epoch 960: 0.037221
+
+training error after epoch 961: 0.003401
+validation error after epoch 961: 0.035374
+
+training error after epoch 962: 0.003514
+validation error after epoch 962: 0.035544
+
+training error after epoch 963: 0.004628
+validation error after epoch 963: 0.036660
+
+training error after epoch 964: 0.003813
+validation error after epoch 964: 0.036003
+
+training error after epoch 965: 0.005201
+validation error after epoch 965: 0.037113
+
+training error after epoch 966: 0.003401
+validation error after epoch 966: 0.035436
+
+training error after epoch 967: 0.003468
+validation error after epoch 967: 0.035572
+
+training error after epoch 968: 0.004718
+validation error after epoch 968: 0.036811
+
+training error after epoch 969: 0.003834
+validation error after epoch 969: 0.036080
+
+training error after epoch 970: 0.005040
+validation error after epoch 970: 0.037012
+
+training error after epoch 971: 0.003403
+validation error after epoch 971: 0.035501
+
+training error after epoch 972: 0.003425
+validation error after epoch 972: 0.035603
+
+training error after epoch 973: 0.004806
+validation error after epoch 973: 0.036960
+
+training error after epoch 974: 0.003844
+validation error after epoch 974: 0.036147
+
+training error after epoch 975: 0.004886
+validation error after epoch 975: 0.036919
+
+training error after epoch 976: 0.003405
+validation error after epoch 976: 0.035567
+
+training error after epoch 977: 0.003385
+validation error after epoch 977: 0.035635
+
+training error after epoch 978: 0.004892
+validation error after epoch 978: 0.037107
+
+training error after epoch 979: 0.003845
+validation error after epoch 979: 0.036202
+
+training error after epoch 980: 0.004739
+validation error after epoch 980: 0.036835
+
+training error after epoch 981: 0.003408
+validation error after epoch 981: 0.035633
+
+training error after epoch 982: 0.003347
+validation error after epoch 982: 0.035669
+
+training error after epoch 983: 0.004977
+validation error after epoch 983: 0.037250
+
+training error after epoch 984: 0.003838
+validation error after epoch 984: 0.036248
+
+training error after epoch 985: 0.004600
+validation error after epoch 985: 0.036758
+
+training error after epoch 986: 0.003411
+validation error after epoch 986: 0.035699
+
+training error after epoch 987: 0.003311
+validation error after epoch 987: 0.035704
+
+training error after epoch 988: 0.005058
+validation error after epoch 988: 0.037390
+
+training error after epoch 989: 0.003821
+validation error after epoch 989: 0.036284
+
+training error after epoch 990: 0.004467
+validation error after epoch 990: 0.036690
+
+training error after epoch 991: 0.003413
+validation error after epoch 991: 0.035765
+
+training error after epoch 992: 0.003276
+validation error after epoch 992: 0.035741
+
+training error after epoch 993: 0.005136
+validation error after epoch 993: 0.037526
+
+training error after epoch 994: 0.003797
+validation error after epoch 994: 0.036312
+
+training error after epoch 995: 0.004343
+validation error after epoch 995: 0.036629
+
+training error after epoch 996: 0.003415
+validation error after epoch 996: 0.035831
+
+training error after epoch 997: 0.003244
+validation error after epoch 997: 0.035779
+
+training error after epoch 998: 0.005210
+validation error after epoch 998: 0.037656
+
+training error after epoch 999: 0.003766
+validation error after epoch 999: 0.036332
+
+training error after epoch 1000: 0.004225
+validation error after epoch 1000: 0.036576

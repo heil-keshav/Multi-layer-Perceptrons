@@ -1,0 +1,2999 @@
+training error after epoch 1: 0.187611
+validation error after epoch 1: 0.194471
+
+training error after epoch 2: 0.187502
+validation error after epoch 2: 0.194364
+
+training error after epoch 3: 0.187189
+validation error after epoch 3: 0.194056
+
+training error after epoch 4: 0.185954
+validation error after epoch 4: 0.192828
+
+training error after epoch 5: 0.176027
+validation error after epoch 5: 0.182889
+
+training error after epoch 6: 0.132478
+validation error after epoch 6: 0.139066
+
+training error after epoch 7: 0.130766
+validation error after epoch 7: 0.137708
+
+training error after epoch 8: 0.135164
+validation error after epoch 8: 0.142474
+
+training error after epoch 9: 0.162567
+validation error after epoch 9: 0.170376
+
+training error after epoch 10: 107719343847239610000000000000000000000.000000
+validation error after epoch 10: 107719343847195750000000000000000000000.000000
+
+training error after epoch 11: 5162386108174838800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+validation error after epoch 11: 5162386108174984900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+
+training error after epoch 12: NaN
+validation error after epoch 12: NaN
+
+training error after epoch 13: NaN
+validation error after epoch 13: NaN
+
+training error after epoch 14: NaN
+validation error after epoch 14: NaN
+
+training error after epoch 15: NaN
+validation error after epoch 15: NaN
+
+training error after epoch 16: NaN
+validation error after epoch 16: NaN
+
+training error after epoch 17: NaN
+validation error after epoch 17: NaN
+
+training error after epoch 18: NaN
+validation error after epoch 18: NaN
+
+training error after epoch 19: NaN
+validation error after epoch 19: NaN
+
+training error after epoch 20: NaN
+validation error after epoch 20: NaN
+
+training error after epoch 21: NaN
+validation error after epoch 21: NaN
+
+training error after epoch 22: NaN
+validation error after epoch 22: NaN
+
+training error after epoch 23: NaN
+validation error after epoch 23: NaN
+
+training error after epoch 24: NaN
+validation error after epoch 24: NaN
+
+training error after epoch 25: NaN
+validation error after epoch 25: NaN
+
+training error after epoch 26: NaN
+validation error after epoch 26: NaN
+
+training error after epoch 27: NaN
+validation error after epoch 27: NaN
+
+training error after epoch 28: NaN
+validation error after epoch 28: NaN
+
+training error after epoch 29: NaN
+validation error after epoch 29: NaN
+
+training error after epoch 30: NaN
+validation error after epoch 30: NaN
+
+training error after epoch 31: NaN
+validation error after epoch 31: NaN
+
+training error after epoch 32: NaN
+validation error after epoch 32: NaN
+
+training error after epoch 33: NaN
+validation error after epoch 33: NaN
+
+training error after epoch 34: NaN
+validation error after epoch 34: NaN
+
+training error after epoch 35: NaN
+validation error after epoch 35: NaN
+
+training error after epoch 36: NaN
+validation error after epoch 36: NaN
+
+training error after epoch 37: NaN
+validation error after epoch 37: NaN
+
+training error after epoch 38: NaN
+validation error after epoch 38: NaN
+
+training error after epoch 39: NaN
+validation error after epoch 39: NaN
+
+training error after epoch 40: NaN
+validation error after epoch 40: NaN
+
+training error after epoch 41: NaN
+validation error after epoch 41: NaN
+
+training error after epoch 42: NaN
+validation error after epoch 42: NaN
+
+training error after epoch 43: NaN
+validation error after epoch 43: NaN
+
+training error after epoch 44: NaN
+validation error after epoch 44: NaN
+
+training error after epoch 45: NaN
+validation error after epoch 45: NaN
+
+training error after epoch 46: NaN
+validation error after epoch 46: NaN
+
+training error after epoch 47: NaN
+validation error after epoch 47: NaN
+
+training error after epoch 48: NaN
+validation error after epoch 48: NaN
+
+training error after epoch 49: NaN
+validation error after epoch 49: NaN
+
+training error after epoch 50: NaN
+validation error after epoch 50: NaN
+
+training error after epoch 51: NaN
+validation error after epoch 51: NaN
+
+training error after epoch 52: NaN
+validation error after epoch 52: NaN
+
+training error after epoch 53: NaN
+validation error after epoch 53: NaN
+
+training error after epoch 54: NaN
+validation error after epoch 54: NaN
+
+training error after epoch 55: NaN
+validation error after epoch 55: NaN
+
+training error after epoch 56: NaN
+validation error after epoch 56: NaN
+
+training error after epoch 57: NaN
+validation error after epoch 57: NaN
+
+training error after epoch 58: NaN
+validation error after epoch 58: NaN
+
+training error after epoch 59: NaN
+validation error after epoch 59: NaN
+
+training error after epoch 60: NaN
+validation error after epoch 60: NaN
+
+training error after epoch 61: NaN
+validation error after epoch 61: NaN
+
+training error after epoch 62: NaN
+validation error after epoch 62: NaN
+
+training error after epoch 63: NaN
+validation error after epoch 63: NaN
+
+training error after epoch 64: NaN
+validation error after epoch 64: NaN
+
+training error after epoch 65: NaN
+validation error after epoch 65: NaN
+
+training error after epoch 66: NaN
+validation error after epoch 66: NaN
+
+training error after epoch 67: NaN
+validation error after epoch 67: NaN
+
+training error after epoch 68: NaN
+validation error after epoch 68: NaN
+
+training error after epoch 69: NaN
+validation error after epoch 69: NaN
+
+training error after epoch 70: NaN
+validation error after epoch 70: NaN
+
+training error after epoch 71: NaN
+validation error after epoch 71: NaN
+
+training error after epoch 72: NaN
+validation error after epoch 72: NaN
+
+training error after epoch 73: NaN
+validation error after epoch 73: NaN
+
+training error after epoch 74: NaN
+validation error after epoch 74: NaN
+
+training error after epoch 75: NaN
+validation error after epoch 75: NaN
+
+training error after epoch 76: NaN
+validation error after epoch 76: NaN
+
+training error after epoch 77: NaN
+validation error after epoch 77: NaN
+
+training error after epoch 78: NaN
+validation error after epoch 78: NaN
+
+training error after epoch 79: NaN
+validation error after epoch 79: NaN
+
+training error after epoch 80: NaN
+validation error after epoch 80: NaN
+
+training error after epoch 81: NaN
+validation error after epoch 81: NaN
+
+training error after epoch 82: NaN
+validation error after epoch 82: NaN
+
+training error after epoch 83: NaN
+validation error after epoch 83: NaN
+
+training error after epoch 84: NaN
+validation error after epoch 84: NaN
+
+training error after epoch 85: NaN
+validation error after epoch 85: NaN
+
+training error after epoch 86: NaN
+validation error after epoch 86: NaN
+
+training error after epoch 87: NaN
+validation error after epoch 87: NaN
+
+training error after epoch 88: NaN
+validation error after epoch 88: NaN
+
+training error after epoch 89: NaN
+validation error after epoch 89: NaN
+
+training error after epoch 90: NaN
+validation error after epoch 90: NaN
+
+training error after epoch 91: NaN
+validation error after epoch 91: NaN
+
+training error after epoch 92: NaN
+validation error after epoch 92: NaN
+
+training error after epoch 93: NaN
+validation error after epoch 93: NaN
+
+training error after epoch 94: NaN
+validation error after epoch 94: NaN
+
+training error after epoch 95: NaN
+validation error after epoch 95: NaN
+
+training error after epoch 96: NaN
+validation error after epoch 96: NaN
+
+training error after epoch 97: NaN
+validation error after epoch 97: NaN
+
+training error after epoch 98: NaN
+validation error after epoch 98: NaN
+
+training error after epoch 99: NaN
+validation error after epoch 99: NaN
+
+training error after epoch 100: NaN
+validation error after epoch 100: NaN
+
+training error after epoch 101: NaN
+validation error after epoch 101: NaN
+
+training error after epoch 102: NaN
+validation error after epoch 102: NaN
+
+training error after epoch 103: NaN
+validation error after epoch 103: NaN
+
+training error after epoch 104: NaN
+validation error after epoch 104: NaN
+
+training error after epoch 105: NaN
+validation error after epoch 105: NaN
+
+training error after epoch 106: NaN
+validation error after epoch 106: NaN
+
+training error after epoch 107: NaN
+validation error after epoch 107: NaN
+
+training error after epoch 108: NaN
+validation error after epoch 108: NaN
+
+training error after epoch 109: NaN
+validation error after epoch 109: NaN
+
+training error after epoch 110: NaN
+validation error after epoch 110: NaN
+
+training error after epoch 111: NaN
+validation error after epoch 111: NaN
+
+training error after epoch 112: NaN
+validation error after epoch 112: NaN
+
+training error after epoch 113: NaN
+validation error after epoch 113: NaN
+
+training error after epoch 114: NaN
+validation error after epoch 114: NaN
+
+training error after epoch 115: NaN
+validation error after epoch 115: NaN
+
+training error after epoch 116: NaN
+validation error after epoch 116: NaN
+
+training error after epoch 117: NaN
+validation error after epoch 117: NaN
+
+training error after epoch 118: NaN
+validation error after epoch 118: NaN
+
+training error after epoch 119: NaN
+validation error after epoch 119: NaN
+
+training error after epoch 120: NaN
+validation error after epoch 120: NaN
+
+training error after epoch 121: NaN
+validation error after epoch 121: NaN
+
+training error after epoch 122: NaN
+validation error after epoch 122: NaN
+
+training error after epoch 123: NaN
+validation error after epoch 123: NaN
+
+training error after epoch 124: NaN
+validation error after epoch 124: NaN
+
+training error after epoch 125: NaN
+validation error after epoch 125: NaN
+
+training error after epoch 126: NaN
+validation error after epoch 126: NaN
+
+training error after epoch 127: NaN
+validation error after epoch 127: NaN
+
+training error after epoch 128: NaN
+validation error after epoch 128: NaN
+
+training error after epoch 129: NaN
+validation error after epoch 129: NaN
+
+training error after epoch 130: NaN
+validation error after epoch 130: NaN
+
+training error after epoch 131: NaN
+validation error after epoch 131: NaN
+
+training error after epoch 132: NaN
+validation error after epoch 132: NaN
+
+training error after epoch 133: NaN
+validation error after epoch 133: NaN
+
+training error after epoch 134: NaN
+validation error after epoch 134: NaN
+
+training error after epoch 135: NaN
+validation error after epoch 135: NaN
+
+training error after epoch 136: NaN
+validation error after epoch 136: NaN
+
+training error after epoch 137: NaN
+validation error after epoch 137: NaN
+
+training error after epoch 138: NaN
+validation error after epoch 138: NaN
+
+training error after epoch 139: NaN
+validation error after epoch 139: NaN
+
+training error after epoch 140: NaN
+validation error after epoch 140: NaN
+
+training error after epoch 141: NaN
+validation error after epoch 141: NaN
+
+training error after epoch 142: NaN
+validation error after epoch 142: NaN
+
+training error after epoch 143: NaN
+validation error after epoch 143: NaN
+
+training error after epoch 144: NaN
+validation error after epoch 144: NaN
+
+training error after epoch 145: NaN
+validation error after epoch 145: NaN
+
+training error after epoch 146: NaN
+validation error after epoch 146: NaN
+
+training error after epoch 147: NaN
+validation error after epoch 147: NaN
+
+training error after epoch 148: NaN
+validation error after epoch 148: NaN
+
+training error after epoch 149: NaN
+validation error after epoch 149: NaN
+
+training error after epoch 150: NaN
+validation error after epoch 150: NaN
+
+training error after epoch 151: NaN
+validation error after epoch 151: NaN
+
+training error after epoch 152: NaN
+validation error after epoch 152: NaN
+
+training error after epoch 153: NaN
+validation error after epoch 153: NaN
+
+training error after epoch 154: NaN
+validation error after epoch 154: NaN
+
+training error after epoch 155: NaN
+validation error after epoch 155: NaN
+
+training error after epoch 156: NaN
+validation error after epoch 156: NaN
+
+training error after epoch 157: NaN
+validation error after epoch 157: NaN
+
+training error after epoch 158: NaN
+validation error after epoch 158: NaN
+
+training error after epoch 159: NaN
+validation error after epoch 159: NaN
+
+training error after epoch 160: NaN
+validation error after epoch 160: NaN
+
+training error after epoch 161: NaN
+validation error after epoch 161: NaN
+
+training error after epoch 162: NaN
+validation error after epoch 162: NaN
+
+training error after epoch 163: NaN
+validation error after epoch 163: NaN
+
+training error after epoch 164: NaN
+validation error after epoch 164: NaN
+
+training error after epoch 165: NaN
+validation error after epoch 165: NaN
+
+training error after epoch 166: NaN
+validation error after epoch 166: NaN
+
+training error after epoch 167: NaN
+validation error after epoch 167: NaN
+
+training error after epoch 168: NaN
+validation error after epoch 168: NaN
+
+training error after epoch 169: NaN
+validation error after epoch 169: NaN
+
+training error after epoch 170: NaN
+validation error after epoch 170: NaN
+
+training error after epoch 171: NaN
+validation error after epoch 171: NaN
+
+training error after epoch 172: NaN
+validation error after epoch 172: NaN
+
+training error after epoch 173: NaN
+validation error after epoch 173: NaN
+
+training error after epoch 174: NaN
+validation error after epoch 174: NaN
+
+training error after epoch 175: NaN
+validation error after epoch 175: NaN
+
+training error after epoch 176: NaN
+validation error after epoch 176: NaN
+
+training error after epoch 177: NaN
+validation error after epoch 177: NaN
+
+training error after epoch 178: NaN
+validation error after epoch 178: NaN
+
+training error after epoch 179: NaN
+validation error after epoch 179: NaN
+
+training error after epoch 180: NaN
+validation error after epoch 180: NaN
+
+training error after epoch 181: NaN
+validation error after epoch 181: NaN
+
+training error after epoch 182: NaN
+validation error after epoch 182: NaN
+
+training error after epoch 183: NaN
+validation error after epoch 183: NaN
+
+training error after epoch 184: NaN
+validation error after epoch 184: NaN
+
+training error after epoch 185: NaN
+validation error after epoch 185: NaN
+
+training error after epoch 186: NaN
+validation error after epoch 186: NaN
+
+training error after epoch 187: NaN
+validation error after epoch 187: NaN
+
+training error after epoch 188: NaN
+validation error after epoch 188: NaN
+
+training error after epoch 189: NaN
+validation error after epoch 189: NaN
+
+training error after epoch 190: NaN
+validation error after epoch 190: NaN
+
+training error after epoch 191: NaN
+validation error after epoch 191: NaN
+
+training error after epoch 192: NaN
+validation error after epoch 192: NaN
+
+training error after epoch 193: NaN
+validation error after epoch 193: NaN
+
+training error after epoch 194: NaN
+validation error after epoch 194: NaN
+
+training error after epoch 195: NaN
+validation error after epoch 195: NaN
+
+training error after epoch 196: NaN
+validation error after epoch 196: NaN
+
+training error after epoch 197: NaN
+validation error after epoch 197: NaN
+
+training error after epoch 198: NaN
+validation error after epoch 198: NaN
+
+training error after epoch 199: NaN
+validation error after epoch 199: NaN
+
+training error after epoch 200: NaN
+validation error after epoch 200: NaN
+
+training error after epoch 201: NaN
+validation error after epoch 201: NaN
+
+training error after epoch 202: NaN
+validation error after epoch 202: NaN
+
+training error after epoch 203: NaN
+validation error after epoch 203: NaN
+
+training error after epoch 204: NaN
+validation error after epoch 204: NaN
+
+training error after epoch 205: NaN
+validation error after epoch 205: NaN
+
+training error after epoch 206: NaN
+validation error after epoch 206: NaN
+
+training error after epoch 207: NaN
+validation error after epoch 207: NaN
+
+training error after epoch 208: NaN
+validation error after epoch 208: NaN
+
+training error after epoch 209: NaN
+validation error after epoch 209: NaN
+
+training error after epoch 210: NaN
+validation error after epoch 210: NaN
+
+training error after epoch 211: NaN
+validation error after epoch 211: NaN
+
+training error after epoch 212: NaN
+validation error after epoch 212: NaN
+
+training error after epoch 213: NaN
+validation error after epoch 213: NaN
+
+training error after epoch 214: NaN
+validation error after epoch 214: NaN
+
+training error after epoch 215: NaN
+validation error after epoch 215: NaN
+
+training error after epoch 216: NaN
+validation error after epoch 216: NaN
+
+training error after epoch 217: NaN
+validation error after epoch 217: NaN
+
+training error after epoch 218: NaN
+validation error after epoch 218: NaN
+
+training error after epoch 219: NaN
+validation error after epoch 219: NaN
+
+training error after epoch 220: NaN
+validation error after epoch 220: NaN
+
+training error after epoch 221: NaN
+validation error after epoch 221: NaN
+
+training error after epoch 222: NaN
+validation error after epoch 222: NaN
+
+training error after epoch 223: NaN
+validation error after epoch 223: NaN
+
+training error after epoch 224: NaN
+validation error after epoch 224: NaN
+
+training error after epoch 225: NaN
+validation error after epoch 225: NaN
+
+training error after epoch 226: NaN
+validation error after epoch 226: NaN
+
+training error after epoch 227: NaN
+validation error after epoch 227: NaN
+
+training error after epoch 228: NaN
+validation error after epoch 228: NaN
+
+training error after epoch 229: NaN
+validation error after epoch 229: NaN
+
+training error after epoch 230: NaN
+validation error after epoch 230: NaN
+
+training error after epoch 231: NaN
+validation error after epoch 231: NaN
+
+training error after epoch 232: NaN
+validation error after epoch 232: NaN
+
+training error after epoch 233: NaN
+validation error after epoch 233: NaN
+
+training error after epoch 234: NaN
+validation error after epoch 234: NaN
+
+training error after epoch 235: NaN
+validation error after epoch 235: NaN
+
+training error after epoch 236: NaN
+validation error after epoch 236: NaN
+
+training error after epoch 237: NaN
+validation error after epoch 237: NaN
+
+training error after epoch 238: NaN
+validation error after epoch 238: NaN
+
+training error after epoch 239: NaN
+validation error after epoch 239: NaN
+
+training error after epoch 240: NaN
+validation error after epoch 240: NaN
+
+training error after epoch 241: NaN
+validation error after epoch 241: NaN
+
+training error after epoch 242: NaN
+validation error after epoch 242: NaN
+
+training error after epoch 243: NaN
+validation error after epoch 243: NaN
+
+training error after epoch 244: NaN
+validation error after epoch 244: NaN
+
+training error after epoch 245: NaN
+validation error after epoch 245: NaN
+
+training error after epoch 246: NaN
+validation error after epoch 246: NaN
+
+training error after epoch 247: NaN
+validation error after epoch 247: NaN
+
+training error after epoch 248: NaN
+validation error after epoch 248: NaN
+
+training error after epoch 249: NaN
+validation error after epoch 249: NaN
+
+training error after epoch 250: NaN
+validation error after epoch 250: NaN
+
+training error after epoch 251: NaN
+validation error after epoch 251: NaN
+
+training error after epoch 252: NaN
+validation error after epoch 252: NaN
+
+training error after epoch 253: NaN
+validation error after epoch 253: NaN
+
+training error after epoch 254: NaN
+validation error after epoch 254: NaN
+
+training error after epoch 255: NaN
+validation error after epoch 255: NaN
+
+training error after epoch 256: NaN
+validation error after epoch 256: NaN
+
+training error after epoch 257: NaN
+validation error after epoch 257: NaN
+
+training error after epoch 258: NaN
+validation error after epoch 258: NaN
+
+training error after epoch 259: NaN
+validation error after epoch 259: NaN
+
+training error after epoch 260: NaN
+validation error after epoch 260: NaN
+
+training error after epoch 261: NaN
+validation error after epoch 261: NaN
+
+training error after epoch 262: NaN
+validation error after epoch 262: NaN
+
+training error after epoch 263: NaN
+validation error after epoch 263: NaN
+
+training error after epoch 264: NaN
+validation error after epoch 264: NaN
+
+training error after epoch 265: NaN
+validation error after epoch 265: NaN
+
+training error after epoch 266: NaN
+validation error after epoch 266: NaN
+
+training error after epoch 267: NaN
+validation error after epoch 267: NaN
+
+training error after epoch 268: NaN
+validation error after epoch 268: NaN
+
+training error after epoch 269: NaN
+validation error after epoch 269: NaN
+
+training error after epoch 270: NaN
+validation error after epoch 270: NaN
+
+training error after epoch 271: NaN
+validation error after epoch 271: NaN
+
+training error after epoch 272: NaN
+validation error after epoch 272: NaN
+
+training error after epoch 273: NaN
+validation error after epoch 273: NaN
+
+training error after epoch 274: NaN
+validation error after epoch 274: NaN
+
+training error after epoch 275: NaN
+validation error after epoch 275: NaN
+
+training error after epoch 276: NaN
+validation error after epoch 276: NaN
+
+training error after epoch 277: NaN
+validation error after epoch 277: NaN
+
+training error after epoch 278: NaN
+validation error after epoch 278: NaN
+
+training error after epoch 279: NaN
+validation error after epoch 279: NaN
+
+training error after epoch 280: NaN
+validation error after epoch 280: NaN
+
+training error after epoch 281: NaN
+validation error after epoch 281: NaN
+
+training error after epoch 282: NaN
+validation error after epoch 282: NaN
+
+training error after epoch 283: NaN
+validation error after epoch 283: NaN
+
+training error after epoch 284: NaN
+validation error after epoch 284: NaN
+
+training error after epoch 285: NaN
+validation error after epoch 285: NaN
+
+training error after epoch 286: NaN
+validation error after epoch 286: NaN
+
+training error after epoch 287: NaN
+validation error after epoch 287: NaN
+
+training error after epoch 288: NaN
+validation error after epoch 288: NaN
+
+training error after epoch 289: NaN
+validation error after epoch 289: NaN
+
+training error after epoch 290: NaN
+validation error after epoch 290: NaN
+
+training error after epoch 291: NaN
+validation error after epoch 291: NaN
+
+training error after epoch 292: NaN
+validation error after epoch 292: NaN
+
+training error after epoch 293: NaN
+validation error after epoch 293: NaN
+
+training error after epoch 294: NaN
+validation error after epoch 294: NaN
+
+training error after epoch 295: NaN
+validation error after epoch 295: NaN
+
+training error after epoch 296: NaN
+validation error after epoch 296: NaN
+
+training error after epoch 297: NaN
+validation error after epoch 297: NaN
+
+training error after epoch 298: NaN
+validation error after epoch 298: NaN
+
+training error after epoch 299: NaN
+validation error after epoch 299: NaN
+
+training error after epoch 300: NaN
+validation error after epoch 300: NaN
+
+training error after epoch 301: NaN
+validation error after epoch 301: NaN
+
+training error after epoch 302: NaN
+validation error after epoch 302: NaN
+
+training error after epoch 303: NaN
+validation error after epoch 303: NaN
+
+training error after epoch 304: NaN
+validation error after epoch 304: NaN
+
+training error after epoch 305: NaN
+validation error after epoch 305: NaN
+
+training error after epoch 306: NaN
+validation error after epoch 306: NaN
+
+training error after epoch 307: NaN
+validation error after epoch 307: NaN
+
+training error after epoch 308: NaN
+validation error after epoch 308: NaN
+
+training error after epoch 309: NaN
+validation error after epoch 309: NaN
+
+training error after epoch 310: NaN
+validation error after epoch 310: NaN
+
+training error after epoch 311: NaN
+validation error after epoch 311: NaN
+
+training error after epoch 312: NaN
+validation error after epoch 312: NaN
+
+training error after epoch 313: NaN
+validation error after epoch 313: NaN
+
+training error after epoch 314: NaN
+validation error after epoch 314: NaN
+
+training error after epoch 315: NaN
+validation error after epoch 315: NaN
+
+training error after epoch 316: NaN
+validation error after epoch 316: NaN
+
+training error after epoch 317: NaN
+validation error after epoch 317: NaN
+
+training error after epoch 318: NaN
+validation error after epoch 318: NaN
+
+training error after epoch 319: NaN
+validation error after epoch 319: NaN
+
+training error after epoch 320: NaN
+validation error after epoch 320: NaN
+
+training error after epoch 321: NaN
+validation error after epoch 321: NaN
+
+training error after epoch 322: NaN
+validation error after epoch 322: NaN
+
+training error after epoch 323: NaN
+validation error after epoch 323: NaN
+
+training error after epoch 324: NaN
+validation error after epoch 324: NaN
+
+training error after epoch 325: NaN
+validation error after epoch 325: NaN
+
+training error after epoch 326: NaN
+validation error after epoch 326: NaN
+
+training error after epoch 327: NaN
+validation error after epoch 327: NaN
+
+training error after epoch 328: NaN
+validation error after epoch 328: NaN
+
+training error after epoch 329: NaN
+validation error after epoch 329: NaN
+
+training error after epoch 330: NaN
+validation error after epoch 330: NaN
+
+training error after epoch 331: NaN
+validation error after epoch 331: NaN
+
+training error after epoch 332: NaN
+validation error after epoch 332: NaN
+
+training error after epoch 333: NaN
+validation error after epoch 333: NaN
+
+training error after epoch 334: NaN
+validation error after epoch 334: NaN
+
+training error after epoch 335: NaN
+validation error after epoch 335: NaN
+
+training error after epoch 336: NaN
+validation error after epoch 336: NaN
+
+training error after epoch 337: NaN
+validation error after epoch 337: NaN
+
+training error after epoch 338: NaN
+validation error after epoch 338: NaN
+
+training error after epoch 339: NaN
+validation error after epoch 339: NaN
+
+training error after epoch 340: NaN
+validation error after epoch 340: NaN
+
+training error after epoch 341: NaN
+validation error after epoch 341: NaN
+
+training error after epoch 342: NaN
+validation error after epoch 342: NaN
+
+training error after epoch 343: NaN
+validation error after epoch 343: NaN
+
+training error after epoch 344: NaN
+validation error after epoch 344: NaN
+
+training error after epoch 345: NaN
+validation error after epoch 345: NaN
+
+training error after epoch 346: NaN
+validation error after epoch 346: NaN
+
+training error after epoch 347: NaN
+validation error after epoch 347: NaN
+
+training error after epoch 348: NaN
+validation error after epoch 348: NaN
+
+training error after epoch 349: NaN
+validation error after epoch 349: NaN
+
+training error after epoch 350: NaN
+validation error after epoch 350: NaN
+
+training error after epoch 351: NaN
+validation error after epoch 351: NaN
+
+training error after epoch 352: NaN
+validation error after epoch 352: NaN
+
+training error after epoch 353: NaN
+validation error after epoch 353: NaN
+
+training error after epoch 354: NaN
+validation error after epoch 354: NaN
+
+training error after epoch 355: NaN
+validation error after epoch 355: NaN
+
+training error after epoch 356: NaN
+validation error after epoch 356: NaN
+
+training error after epoch 357: NaN
+validation error after epoch 357: NaN
+
+training error after epoch 358: NaN
+validation error after epoch 358: NaN
+
+training error after epoch 359: NaN
+validation error after epoch 359: NaN
+
+training error after epoch 360: NaN
+validation error after epoch 360: NaN
+
+training error after epoch 361: NaN
+validation error after epoch 361: NaN
+
+training error after epoch 362: NaN
+validation error after epoch 362: NaN
+
+training error after epoch 363: NaN
+validation error after epoch 363: NaN
+
+training error after epoch 364: NaN
+validation error after epoch 364: NaN
+
+training error after epoch 365: NaN
+validation error after epoch 365: NaN
+
+training error after epoch 366: NaN
+validation error after epoch 366: NaN
+
+training error after epoch 367: NaN
+validation error after epoch 367: NaN
+
+training error after epoch 368: NaN
+validation error after epoch 368: NaN
+
+training error after epoch 369: NaN
+validation error after epoch 369: NaN
+
+training error after epoch 370: NaN
+validation error after epoch 370: NaN
+
+training error after epoch 371: NaN
+validation error after epoch 371: NaN
+
+training error after epoch 372: NaN
+validation error after epoch 372: NaN
+
+training error after epoch 373: NaN
+validation error after epoch 373: NaN
+
+training error after epoch 374: NaN
+validation error after epoch 374: NaN
+
+training error after epoch 375: NaN
+validation error after epoch 375: NaN
+
+training error after epoch 376: NaN
+validation error after epoch 376: NaN
+
+training error after epoch 377: NaN
+validation error after epoch 377: NaN
+
+training error after epoch 378: NaN
+validation error after epoch 378: NaN
+
+training error after epoch 379: NaN
+validation error after epoch 379: NaN
+
+training error after epoch 380: NaN
+validation error after epoch 380: NaN
+
+training error after epoch 381: NaN
+validation error after epoch 381: NaN
+
+training error after epoch 382: NaN
+validation error after epoch 382: NaN
+
+training error after epoch 383: NaN
+validation error after epoch 383: NaN
+
+training error after epoch 384: NaN
+validation error after epoch 384: NaN
+
+training error after epoch 385: NaN
+validation error after epoch 385: NaN
+
+training error after epoch 386: NaN
+validation error after epoch 386: NaN
+
+training error after epoch 387: NaN
+validation error after epoch 387: NaN
+
+training error after epoch 388: NaN
+validation error after epoch 388: NaN
+
+training error after epoch 389: NaN
+validation error after epoch 389: NaN
+
+training error after epoch 390: NaN
+validation error after epoch 390: NaN
+
+training error after epoch 391: NaN
+validation error after epoch 391: NaN
+
+training error after epoch 392: NaN
+validation error after epoch 392: NaN
+
+training error after epoch 393: NaN
+validation error after epoch 393: NaN
+
+training error after epoch 394: NaN
+validation error after epoch 394: NaN
+
+training error after epoch 395: NaN
+validation error after epoch 395: NaN
+
+training error after epoch 396: NaN
+validation error after epoch 396: NaN
+
+training error after epoch 397: NaN
+validation error after epoch 397: NaN
+
+training error after epoch 398: NaN
+validation error after epoch 398: NaN
+
+training error after epoch 399: NaN
+validation error after epoch 399: NaN
+
+training error after epoch 400: NaN
+validation error after epoch 400: NaN
+
+training error after epoch 401: NaN
+validation error after epoch 401: NaN
+
+training error after epoch 402: NaN
+validation error after epoch 402: NaN
+
+training error after epoch 403: NaN
+validation error after epoch 403: NaN
+
+training error after epoch 404: NaN
+validation error after epoch 404: NaN
+
+training error after epoch 405: NaN
+validation error after epoch 405: NaN
+
+training error after epoch 406: NaN
+validation error after epoch 406: NaN
+
+training error after epoch 407: NaN
+validation error after epoch 407: NaN
+
+training error after epoch 408: NaN
+validation error after epoch 408: NaN
+
+training error after epoch 409: NaN
+validation error after epoch 409: NaN
+
+training error after epoch 410: NaN
+validation error after epoch 410: NaN
+
+training error after epoch 411: NaN
+validation error after epoch 411: NaN
+
+training error after epoch 412: NaN
+validation error after epoch 412: NaN
+
+training error after epoch 413: NaN
+validation error after epoch 413: NaN
+
+training error after epoch 414: NaN
+validation error after epoch 414: NaN
+
+training error after epoch 415: NaN
+validation error after epoch 415: NaN
+
+training error after epoch 416: NaN
+validation error after epoch 416: NaN
+
+training error after epoch 417: NaN
+validation error after epoch 417: NaN
+
+training error after epoch 418: NaN
+validation error after epoch 418: NaN
+
+training error after epoch 419: NaN
+validation error after epoch 419: NaN
+
+training error after epoch 420: NaN
+validation error after epoch 420: NaN
+
+training error after epoch 421: NaN
+validation error after epoch 421: NaN
+
+training error after epoch 422: NaN
+validation error after epoch 422: NaN
+
+training error after epoch 423: NaN
+validation error after epoch 423: NaN
+
+training error after epoch 424: NaN
+validation error after epoch 424: NaN
+
+training error after epoch 425: NaN
+validation error after epoch 425: NaN
+
+training error after epoch 426: NaN
+validation error after epoch 426: NaN
+
+training error after epoch 427: NaN
+validation error after epoch 427: NaN
+
+training error after epoch 428: NaN
+validation error after epoch 428: NaN
+
+training error after epoch 429: NaN
+validation error after epoch 429: NaN
+
+training error after epoch 430: NaN
+validation error after epoch 430: NaN
+
+training error after epoch 431: NaN
+validation error after epoch 431: NaN
+
+training error after epoch 432: NaN
+validation error after epoch 432: NaN
+
+training error after epoch 433: NaN
+validation error after epoch 433: NaN
+
+training error after epoch 434: NaN
+validation error after epoch 434: NaN
+
+training error after epoch 435: NaN
+validation error after epoch 435: NaN
+
+training error after epoch 436: NaN
+validation error after epoch 436: NaN
+
+training error after epoch 437: NaN
+validation error after epoch 437: NaN
+
+training error after epoch 438: NaN
+validation error after epoch 438: NaN
+
+training error after epoch 439: NaN
+validation error after epoch 439: NaN
+
+training error after epoch 440: NaN
+validation error after epoch 440: NaN
+
+training error after epoch 441: NaN
+validation error after epoch 441: NaN
+
+training error after epoch 442: NaN
+validation error after epoch 442: NaN
+
+training error after epoch 443: NaN
+validation error after epoch 443: NaN
+
+training error after epoch 444: NaN
+validation error after epoch 444: NaN
+
+training error after epoch 445: NaN
+validation error after epoch 445: NaN
+
+training error after epoch 446: NaN
+validation error after epoch 446: NaN
+
+training error after epoch 447: NaN
+validation error after epoch 447: NaN
+
+training error after epoch 448: NaN
+validation error after epoch 448: NaN
+
+training error after epoch 449: NaN
+validation error after epoch 449: NaN
+
+training error after epoch 450: NaN
+validation error after epoch 450: NaN
+
+training error after epoch 451: NaN
+validation error after epoch 451: NaN
+
+training error after epoch 452: NaN
+validation error after epoch 452: NaN
+
+training error after epoch 453: NaN
+validation error after epoch 453: NaN
+
+training error after epoch 454: NaN
+validation error after epoch 454: NaN
+
+training error after epoch 455: NaN
+validation error after epoch 455: NaN
+
+training error after epoch 456: NaN
+validation error after epoch 456: NaN
+
+training error after epoch 457: NaN
+validation error after epoch 457: NaN
+
+training error after epoch 458: NaN
+validation error after epoch 458: NaN
+
+training error after epoch 459: NaN
+validation error after epoch 459: NaN
+
+training error after epoch 460: NaN
+validation error after epoch 460: NaN
+
+training error after epoch 461: NaN
+validation error after epoch 461: NaN
+
+training error after epoch 462: NaN
+validation error after epoch 462: NaN
+
+training error after epoch 463: NaN
+validation error after epoch 463: NaN
+
+training error after epoch 464: NaN
+validation error after epoch 464: NaN
+
+training error after epoch 465: NaN
+validation error after epoch 465: NaN
+
+training error after epoch 466: NaN
+validation error after epoch 466: NaN
+
+training error after epoch 467: NaN
+validation error after epoch 467: NaN
+
+training error after epoch 468: NaN
+validation error after epoch 468: NaN
+
+training error after epoch 469: NaN
+validation error after epoch 469: NaN
+
+training error after epoch 470: NaN
+validation error after epoch 470: NaN
+
+training error after epoch 471: NaN
+validation error after epoch 471: NaN
+
+training error after epoch 472: NaN
+validation error after epoch 472: NaN
+
+training error after epoch 473: NaN
+validation error after epoch 473: NaN
+
+training error after epoch 474: NaN
+validation error after epoch 474: NaN
+
+training error after epoch 475: NaN
+validation error after epoch 475: NaN
+
+training error after epoch 476: NaN
+validation error after epoch 476: NaN
+
+training error after epoch 477: NaN
+validation error after epoch 477: NaN
+
+training error after epoch 478: NaN
+validation error after epoch 478: NaN
+
+training error after epoch 479: NaN
+validation error after epoch 479: NaN
+
+training error after epoch 480: NaN
+validation error after epoch 480: NaN
+
+training error after epoch 481: NaN
+validation error after epoch 481: NaN
+
+training error after epoch 482: NaN
+validation error after epoch 482: NaN
+
+training error after epoch 483: NaN
+validation error after epoch 483: NaN
+
+training error after epoch 484: NaN
+validation error after epoch 484: NaN
+
+training error after epoch 485: NaN
+validation error after epoch 485: NaN
+
+training error after epoch 486: NaN
+validation error after epoch 486: NaN
+
+training error after epoch 487: NaN
+validation error after epoch 487: NaN
+
+training error after epoch 488: NaN
+validation error after epoch 488: NaN
+
+training error after epoch 489: NaN
+validation error after epoch 489: NaN
+
+training error after epoch 490: NaN
+validation error after epoch 490: NaN
+
+training error after epoch 491: NaN
+validation error after epoch 491: NaN
+
+training error after epoch 492: NaN
+validation error after epoch 492: NaN
+
+training error after epoch 493: NaN
+validation error after epoch 493: NaN
+
+training error after epoch 494: NaN
+validation error after epoch 494: NaN
+
+training error after epoch 495: NaN
+validation error after epoch 495: NaN
+
+training error after epoch 496: NaN
+validation error after epoch 496: NaN
+
+training error after epoch 497: NaN
+validation error after epoch 497: NaN
+
+training error after epoch 498: NaN
+validation error after epoch 498: NaN
+
+training error after epoch 499: NaN
+validation error after epoch 499: NaN
+
+training error after epoch 500: NaN
+validation error after epoch 500: NaN
+
+training error after epoch 501: NaN
+validation error after epoch 501: NaN
+
+training error after epoch 502: NaN
+validation error after epoch 502: NaN
+
+training error after epoch 503: NaN
+validation error after epoch 503: NaN
+
+training error after epoch 504: NaN
+validation error after epoch 504: NaN
+
+training error after epoch 505: NaN
+validation error after epoch 505: NaN
+
+training error after epoch 506: NaN
+validation error after epoch 506: NaN
+
+training error after epoch 507: NaN
+validation error after epoch 507: NaN
+
+training error after epoch 508: NaN
+validation error after epoch 508: NaN
+
+training error after epoch 509: NaN
+validation error after epoch 509: NaN
+
+training error after epoch 510: NaN
+validation error after epoch 510: NaN
+
+training error after epoch 511: NaN
+validation error after epoch 511: NaN
+
+training error after epoch 512: NaN
+validation error after epoch 512: NaN
+
+training error after epoch 513: NaN
+validation error after epoch 513: NaN
+
+training error after epoch 514: NaN
+validation error after epoch 514: NaN
+
+training error after epoch 515: NaN
+validation error after epoch 515: NaN
+
+training error after epoch 516: NaN
+validation error after epoch 516: NaN
+
+training error after epoch 517: NaN
+validation error after epoch 517: NaN
+
+training error after epoch 518: NaN
+validation error after epoch 518: NaN
+
+training error after epoch 519: NaN
+validation error after epoch 519: NaN
+
+training error after epoch 520: NaN
+validation error after epoch 520: NaN
+
+training error after epoch 521: NaN
+validation error after epoch 521: NaN
+
+training error after epoch 522: NaN
+validation error after epoch 522: NaN
+
+training error after epoch 523: NaN
+validation error after epoch 523: NaN
+
+training error after epoch 524: NaN
+validation error after epoch 524: NaN
+
+training error after epoch 525: NaN
+validation error after epoch 525: NaN
+
+training error after epoch 526: NaN
+validation error after epoch 526: NaN
+
+training error after epoch 527: NaN
+validation error after epoch 527: NaN
+
+training error after epoch 528: NaN
+validation error after epoch 528: NaN
+
+training error after epoch 529: NaN
+validation error after epoch 529: NaN
+
+training error after epoch 530: NaN
+validation error after epoch 530: NaN
+
+training error after epoch 531: NaN
+validation error after epoch 531: NaN
+
+training error after epoch 532: NaN
+validation error after epoch 532: NaN
+
+training error after epoch 533: NaN
+validation error after epoch 533: NaN
+
+training error after epoch 534: NaN
+validation error after epoch 534: NaN
+
+training error after epoch 535: NaN
+validation error after epoch 535: NaN
+
+training error after epoch 536: NaN
+validation error after epoch 536: NaN
+
+training error after epoch 537: NaN
+validation error after epoch 537: NaN
+
+training error after epoch 538: NaN
+validation error after epoch 538: NaN
+
+training error after epoch 539: NaN
+validation error after epoch 539: NaN
+
+training error after epoch 540: NaN
+validation error after epoch 540: NaN
+
+training error after epoch 541: NaN
+validation error after epoch 541: NaN
+
+training error after epoch 542: NaN
+validation error after epoch 542: NaN
+
+training error after epoch 543: NaN
+validation error after epoch 543: NaN
+
+training error after epoch 544: NaN
+validation error after epoch 544: NaN
+
+training error after epoch 545: NaN
+validation error after epoch 545: NaN
+
+training error after epoch 546: NaN
+validation error after epoch 546: NaN
+
+training error after epoch 547: NaN
+validation error after epoch 547: NaN
+
+training error after epoch 548: NaN
+validation error after epoch 548: NaN
+
+training error after epoch 549: NaN
+validation error after epoch 549: NaN
+
+training error after epoch 550: NaN
+validation error after epoch 550: NaN
+
+training error after epoch 551: NaN
+validation error after epoch 551: NaN
+
+training error after epoch 552: NaN
+validation error after epoch 552: NaN
+
+training error after epoch 553: NaN
+validation error after epoch 553: NaN
+
+training error after epoch 554: NaN
+validation error after epoch 554: NaN
+
+training error after epoch 555: NaN
+validation error after epoch 555: NaN
+
+training error after epoch 556: NaN
+validation error after epoch 556: NaN
+
+training error after epoch 557: NaN
+validation error after epoch 557: NaN
+
+training error after epoch 558: NaN
+validation error after epoch 558: NaN
+
+training error after epoch 559: NaN
+validation error after epoch 559: NaN
+
+training error after epoch 560: NaN
+validation error after epoch 560: NaN
+
+training error after epoch 561: NaN
+validation error after epoch 561: NaN
+
+training error after epoch 562: NaN
+validation error after epoch 562: NaN
+
+training error after epoch 563: NaN
+validation error after epoch 563: NaN
+
+training error after epoch 564: NaN
+validation error after epoch 564: NaN
+
+training error after epoch 565: NaN
+validation error after epoch 565: NaN
+
+training error after epoch 566: NaN
+validation error after epoch 566: NaN
+
+training error after epoch 567: NaN
+validation error after epoch 567: NaN
+
+training error after epoch 568: NaN
+validation error after epoch 568: NaN
+
+training error after epoch 569: NaN
+validation error after epoch 569: NaN
+
+training error after epoch 570: NaN
+validation error after epoch 570: NaN
+
+training error after epoch 571: NaN
+validation error after epoch 571: NaN
+
+training error after epoch 572: NaN
+validation error after epoch 572: NaN
+
+training error after epoch 573: NaN
+validation error after epoch 573: NaN
+
+training error after epoch 574: NaN
+validation error after epoch 574: NaN
+
+training error after epoch 575: NaN
+validation error after epoch 575: NaN
+
+training error after epoch 576: NaN
+validation error after epoch 576: NaN
+
+training error after epoch 577: NaN
+validation error after epoch 577: NaN
+
+training error after epoch 578: NaN
+validation error after epoch 578: NaN
+
+training error after epoch 579: NaN
+validation error after epoch 579: NaN
+
+training error after epoch 580: NaN
+validation error after epoch 580: NaN
+
+training error after epoch 581: NaN
+validation error after epoch 581: NaN
+
+training error after epoch 582: NaN
+validation error after epoch 582: NaN
+
+training error after epoch 583: NaN
+validation error after epoch 583: NaN
+
+training error after epoch 584: NaN
+validation error after epoch 584: NaN
+
+training error after epoch 585: NaN
+validation error after epoch 585: NaN
+
+training error after epoch 586: NaN
+validation error after epoch 586: NaN
+
+training error after epoch 587: NaN
+validation error after epoch 587: NaN
+
+training error after epoch 588: NaN
+validation error after epoch 588: NaN
+
+training error after epoch 589: NaN
+validation error after epoch 589: NaN
+
+training error after epoch 590: NaN
+validation error after epoch 590: NaN
+
+training error after epoch 591: NaN
+validation error after epoch 591: NaN
+
+training error after epoch 592: NaN
+validation error after epoch 592: NaN
+
+training error after epoch 593: NaN
+validation error after epoch 593: NaN
+
+training error after epoch 594: NaN
+validation error after epoch 594: NaN
+
+training error after epoch 595: NaN
+validation error after epoch 595: NaN
+
+training error after epoch 596: NaN
+validation error after epoch 596: NaN
+
+training error after epoch 597: NaN
+validation error after epoch 597: NaN
+
+training error after epoch 598: NaN
+validation error after epoch 598: NaN
+
+training error after epoch 599: NaN
+validation error after epoch 599: NaN
+
+training error after epoch 600: NaN
+validation error after epoch 600: NaN
+
+training error after epoch 601: NaN
+validation error after epoch 601: NaN
+
+training error after epoch 602: NaN
+validation error after epoch 602: NaN
+
+training error after epoch 603: NaN
+validation error after epoch 603: NaN
+
+training error after epoch 604: NaN
+validation error after epoch 604: NaN
+
+training error after epoch 605: NaN
+validation error after epoch 605: NaN
+
+training error after epoch 606: NaN
+validation error after epoch 606: NaN
+
+training error after epoch 607: NaN
+validation error after epoch 607: NaN
+
+training error after epoch 608: NaN
+validation error after epoch 608: NaN
+
+training error after epoch 609: NaN
+validation error after epoch 609: NaN
+
+training error after epoch 610: NaN
+validation error after epoch 610: NaN
+
+training error after epoch 611: NaN
+validation error after epoch 611: NaN
+
+training error after epoch 612: NaN
+validation error after epoch 612: NaN
+
+training error after epoch 613: NaN
+validation error after epoch 613: NaN
+
+training error after epoch 614: NaN
+validation error after epoch 614: NaN
+
+training error after epoch 615: NaN
+validation error after epoch 615: NaN
+
+training error after epoch 616: NaN
+validation error after epoch 616: NaN
+
+training error after epoch 617: NaN
+validation error after epoch 617: NaN
+
+training error after epoch 618: NaN
+validation error after epoch 618: NaN
+
+training error after epoch 619: NaN
+validation error after epoch 619: NaN
+
+training error after epoch 620: NaN
+validation error after epoch 620: NaN
+
+training error after epoch 621: NaN
+validation error after epoch 621: NaN
+
+training error after epoch 622: NaN
+validation error after epoch 622: NaN
+
+training error after epoch 623: NaN
+validation error after epoch 623: NaN
+
+training error after epoch 624: NaN
+validation error after epoch 624: NaN
+
+training error after epoch 625: NaN
+validation error after epoch 625: NaN
+
+training error after epoch 626: NaN
+validation error after epoch 626: NaN
+
+training error after epoch 627: NaN
+validation error after epoch 627: NaN
+
+training error after epoch 628: NaN
+validation error after epoch 628: NaN
+
+training error after epoch 629: NaN
+validation error after epoch 629: NaN
+
+training error after epoch 630: NaN
+validation error after epoch 630: NaN
+
+training error after epoch 631: NaN
+validation error after epoch 631: NaN
+
+training error after epoch 632: NaN
+validation error after epoch 632: NaN
+
+training error after epoch 633: NaN
+validation error after epoch 633: NaN
+
+training error after epoch 634: NaN
+validation error after epoch 634: NaN
+
+training error after epoch 635: NaN
+validation error after epoch 635: NaN
+
+training error after epoch 636: NaN
+validation error after epoch 636: NaN
+
+training error after epoch 637: NaN
+validation error after epoch 637: NaN
+
+training error after epoch 638: NaN
+validation error after epoch 638: NaN
+
+training error after epoch 639: NaN
+validation error after epoch 639: NaN
+
+training error after epoch 640: NaN
+validation error after epoch 640: NaN
+
+training error after epoch 641: NaN
+validation error after epoch 641: NaN
+
+training error after epoch 642: NaN
+validation error after epoch 642: NaN
+
+training error after epoch 643: NaN
+validation error after epoch 643: NaN
+
+training error after epoch 644: NaN
+validation error after epoch 644: NaN
+
+training error after epoch 645: NaN
+validation error after epoch 645: NaN
+
+training error after epoch 646: NaN
+validation error after epoch 646: NaN
+
+training error after epoch 647: NaN
+validation error after epoch 647: NaN
+
+training error after epoch 648: NaN
+validation error after epoch 648: NaN
+
+training error after epoch 649: NaN
+validation error after epoch 649: NaN
+
+training error after epoch 650: NaN
+validation error after epoch 650: NaN
+
+training error after epoch 651: NaN
+validation error after epoch 651: NaN
+
+training error after epoch 652: NaN
+validation error after epoch 652: NaN
+
+training error after epoch 653: NaN
+validation error after epoch 653: NaN
+
+training error after epoch 654: NaN
+validation error after epoch 654: NaN
+
+training error after epoch 655: NaN
+validation error after epoch 655: NaN
+
+training error after epoch 656: NaN
+validation error after epoch 656: NaN
+
+training error after epoch 657: NaN
+validation error after epoch 657: NaN
+
+training error after epoch 658: NaN
+validation error after epoch 658: NaN
+
+training error after epoch 659: NaN
+validation error after epoch 659: NaN
+
+training error after epoch 660: NaN
+validation error after epoch 660: NaN
+
+training error after epoch 661: NaN
+validation error after epoch 661: NaN
+
+training error after epoch 662: NaN
+validation error after epoch 662: NaN
+
+training error after epoch 663: NaN
+validation error after epoch 663: NaN
+
+training error after epoch 664: NaN
+validation error after epoch 664: NaN
+
+training error after epoch 665: NaN
+validation error after epoch 665: NaN
+
+training error after epoch 666: NaN
+validation error after epoch 666: NaN
+
+training error after epoch 667: NaN
+validation error after epoch 667: NaN
+
+training error after epoch 668: NaN
+validation error after epoch 668: NaN
+
+training error after epoch 669: NaN
+validation error after epoch 669: NaN
+
+training error after epoch 670: NaN
+validation error after epoch 670: NaN
+
+training error after epoch 671: NaN
+validation error after epoch 671: NaN
+
+training error after epoch 672: NaN
+validation error after epoch 672: NaN
+
+training error after epoch 673: NaN
+validation error after epoch 673: NaN
+
+training error after epoch 674: NaN
+validation error after epoch 674: NaN
+
+training error after epoch 675: NaN
+validation error after epoch 675: NaN
+
+training error after epoch 676: NaN
+validation error after epoch 676: NaN
+
+training error after epoch 677: NaN
+validation error after epoch 677: NaN
+
+training error after epoch 678: NaN
+validation error after epoch 678: NaN
+
+training error after epoch 679: NaN
+validation error after epoch 679: NaN
+
+training error after epoch 680: NaN
+validation error after epoch 680: NaN
+
+training error after epoch 681: NaN
+validation error after epoch 681: NaN
+
+training error after epoch 682: NaN
+validation error after epoch 682: NaN
+
+training error after epoch 683: NaN
+validation error after epoch 683: NaN
+
+training error after epoch 684: NaN
+validation error after epoch 684: NaN
+
+training error after epoch 685: NaN
+validation error after epoch 685: NaN
+
+training error after epoch 686: NaN
+validation error after epoch 686: NaN
+
+training error after epoch 687: NaN
+validation error after epoch 687: NaN
+
+training error after epoch 688: NaN
+validation error after epoch 688: NaN
+
+training error after epoch 689: NaN
+validation error after epoch 689: NaN
+
+training error after epoch 690: NaN
+validation error after epoch 690: NaN
+
+training error after epoch 691: NaN
+validation error after epoch 691: NaN
+
+training error after epoch 692: NaN
+validation error after epoch 692: NaN
+
+training error after epoch 693: NaN
+validation error after epoch 693: NaN
+
+training error after epoch 694: NaN
+validation error after epoch 694: NaN
+
+training error after epoch 695: NaN
+validation error after epoch 695: NaN
+
+training error after epoch 696: NaN
+validation error after epoch 696: NaN
+
+training error after epoch 697: NaN
+validation error after epoch 697: NaN
+
+training error after epoch 698: NaN
+validation error after epoch 698: NaN
+
+training error after epoch 699: NaN
+validation error after epoch 699: NaN
+
+training error after epoch 700: NaN
+validation error after epoch 700: NaN
+
+training error after epoch 701: NaN
+validation error after epoch 701: NaN
+
+training error after epoch 702: NaN
+validation error after epoch 702: NaN
+
+training error after epoch 703: NaN
+validation error after epoch 703: NaN
+
+training error after epoch 704: NaN
+validation error after epoch 704: NaN
+
+training error after epoch 705: NaN
+validation error after epoch 705: NaN
+
+training error after epoch 706: NaN
+validation error after epoch 706: NaN
+
+training error after epoch 707: NaN
+validation error after epoch 707: NaN
+
+training error after epoch 708: NaN
+validation error after epoch 708: NaN
+
+training error after epoch 709: NaN
+validation error after epoch 709: NaN
+
+training error after epoch 710: NaN
+validation error after epoch 710: NaN
+
+training error after epoch 711: NaN
+validation error after epoch 711: NaN
+
+training error after epoch 712: NaN
+validation error after epoch 712: NaN
+
+training error after epoch 713: NaN
+validation error after epoch 713: NaN
+
+training error after epoch 714: NaN
+validation error after epoch 714: NaN
+
+training error after epoch 715: NaN
+validation error after epoch 715: NaN
+
+training error after epoch 716: NaN
+validation error after epoch 716: NaN
+
+training error after epoch 717: NaN
+validation error after epoch 717: NaN
+
+training error after epoch 718: NaN
+validation error after epoch 718: NaN
+
+training error after epoch 719: NaN
+validation error after epoch 719: NaN
+
+training error after epoch 720: NaN
+validation error after epoch 720: NaN
+
+training error after epoch 721: NaN
+validation error after epoch 721: NaN
+
+training error after epoch 722: NaN
+validation error after epoch 722: NaN
+
+training error after epoch 723: NaN
+validation error after epoch 723: NaN
+
+training error after epoch 724: NaN
+validation error after epoch 724: NaN
+
+training error after epoch 725: NaN
+validation error after epoch 725: NaN
+
+training error after epoch 726: NaN
+validation error after epoch 726: NaN
+
+training error after epoch 727: NaN
+validation error after epoch 727: NaN
+
+training error after epoch 728: NaN
+validation error after epoch 728: NaN
+
+training error after epoch 729: NaN
+validation error after epoch 729: NaN
+
+training error after epoch 730: NaN
+validation error after epoch 730: NaN
+
+training error after epoch 731: NaN
+validation error after epoch 731: NaN
+
+training error after epoch 732: NaN
+validation error after epoch 732: NaN
+
+training error after epoch 733: NaN
+validation error after epoch 733: NaN
+
+training error after epoch 734: NaN
+validation error after epoch 734: NaN
+
+training error after epoch 735: NaN
+validation error after epoch 735: NaN
+
+training error after epoch 736: NaN
+validation error after epoch 736: NaN
+
+training error after epoch 737: NaN
+validation error after epoch 737: NaN
+
+training error after epoch 738: NaN
+validation error after epoch 738: NaN
+
+training error after epoch 739: NaN
+validation error after epoch 739: NaN
+
+training error after epoch 740: NaN
+validation error after epoch 740: NaN
+
+training error after epoch 741: NaN
+validation error after epoch 741: NaN
+
+training error after epoch 742: NaN
+validation error after epoch 742: NaN
+
+training error after epoch 743: NaN
+validation error after epoch 743: NaN
+
+training error after epoch 744: NaN
+validation error after epoch 744: NaN
+
+training error after epoch 745: NaN
+validation error after epoch 745: NaN
+
+training error after epoch 746: NaN
+validation error after epoch 746: NaN
+
+training error after epoch 747: NaN
+validation error after epoch 747: NaN
+
+training error after epoch 748: NaN
+validation error after epoch 748: NaN
+
+training error after epoch 749: NaN
+validation error after epoch 749: NaN
+
+training error after epoch 750: NaN
+validation error after epoch 750: NaN
+
+training error after epoch 751: NaN
+validation error after epoch 751: NaN
+
+training error after epoch 752: NaN
+validation error after epoch 752: NaN
+
+training error after epoch 753: NaN
+validation error after epoch 753: NaN
+
+training error after epoch 754: NaN
+validation error after epoch 754: NaN
+
+training error after epoch 755: NaN
+validation error after epoch 755: NaN
+
+training error after epoch 756: NaN
+validation error after epoch 756: NaN
+
+training error after epoch 757: NaN
+validation error after epoch 757: NaN
+
+training error after epoch 758: NaN
+validation error after epoch 758: NaN
+
+training error after epoch 759: NaN
+validation error after epoch 759: NaN
+
+training error after epoch 760: NaN
+validation error after epoch 760: NaN
+
+training error after epoch 761: NaN
+validation error after epoch 761: NaN
+
+training error after epoch 762: NaN
+validation error after epoch 762: NaN
+
+training error after epoch 763: NaN
+validation error after epoch 763: NaN
+
+training error after epoch 764: NaN
+validation error after epoch 764: NaN
+
+training error after epoch 765: NaN
+validation error after epoch 765: NaN
+
+training error after epoch 766: NaN
+validation error after epoch 766: NaN
+
+training error after epoch 767: NaN
+validation error after epoch 767: NaN
+
+training error after epoch 768: NaN
+validation error after epoch 768: NaN
+
+training error after epoch 769: NaN
+validation error after epoch 769: NaN
+
+training error after epoch 770: NaN
+validation error after epoch 770: NaN
+
+training error after epoch 771: NaN
+validation error after epoch 771: NaN
+
+training error after epoch 772: NaN
+validation error after epoch 772: NaN
+
+training error after epoch 773: NaN
+validation error after epoch 773: NaN
+
+training error after epoch 774: NaN
+validation error after epoch 774: NaN
+
+training error after epoch 775: NaN
+validation error after epoch 775: NaN
+
+training error after epoch 776: NaN
+validation error after epoch 776: NaN
+
+training error after epoch 777: NaN
+validation error after epoch 777: NaN
+
+training error after epoch 778: NaN
+validation error after epoch 778: NaN
+
+training error after epoch 779: NaN
+validation error after epoch 779: NaN
+
+training error after epoch 780: NaN
+validation error after epoch 780: NaN
+
+training error after epoch 781: NaN
+validation error after epoch 781: NaN
+
+training error after epoch 782: NaN
+validation error after epoch 782: NaN
+
+training error after epoch 783: NaN
+validation error after epoch 783: NaN
+
+training error after epoch 784: NaN
+validation error after epoch 784: NaN
+
+training error after epoch 785: NaN
+validation error after epoch 785: NaN
+
+training error after epoch 786: NaN
+validation error after epoch 786: NaN
+
+training error after epoch 787: NaN
+validation error after epoch 787: NaN
+
+training error after epoch 788: NaN
+validation error after epoch 788: NaN
+
+training error after epoch 789: NaN
+validation error after epoch 789: NaN
+
+training error after epoch 790: NaN
+validation error after epoch 790: NaN
+
+training error after epoch 791: NaN
+validation error after epoch 791: NaN
+
+training error after epoch 792: NaN
+validation error after epoch 792: NaN
+
+training error after epoch 793: NaN
+validation error after epoch 793: NaN
+
+training error after epoch 794: NaN
+validation error after epoch 794: NaN
+
+training error after epoch 795: NaN
+validation error after epoch 795: NaN
+
+training error after epoch 796: NaN
+validation error after epoch 796: NaN
+
+training error after epoch 797: NaN
+validation error after epoch 797: NaN
+
+training error after epoch 798: NaN
+validation error after epoch 798: NaN
+
+training error after epoch 799: NaN
+validation error after epoch 799: NaN
+
+training error after epoch 800: NaN
+validation error after epoch 800: NaN
+
+training error after epoch 801: NaN
+validation error after epoch 801: NaN
+
+training error after epoch 802: NaN
+validation error after epoch 802: NaN
+
+training error after epoch 803: NaN
+validation error after epoch 803: NaN
+
+training error after epoch 804: NaN
+validation error after epoch 804: NaN
+
+training error after epoch 805: NaN
+validation error after epoch 805: NaN
+
+training error after epoch 806: NaN
+validation error after epoch 806: NaN
+
+training error after epoch 807: NaN
+validation error after epoch 807: NaN
+
+training error after epoch 808: NaN
+validation error after epoch 808: NaN
+
+training error after epoch 809: NaN
+validation error after epoch 809: NaN
+
+training error after epoch 810: NaN
+validation error after epoch 810: NaN
+
+training error after epoch 811: NaN
+validation error after epoch 811: NaN
+
+training error after epoch 812: NaN
+validation error after epoch 812: NaN
+
+training error after epoch 813: NaN
+validation error after epoch 813: NaN
+
+training error after epoch 814: NaN
+validation error after epoch 814: NaN
+
+training error after epoch 815: NaN
+validation error after epoch 815: NaN
+
+training error after epoch 816: NaN
+validation error after epoch 816: NaN
+
+training error after epoch 817: NaN
+validation error after epoch 817: NaN
+
+training error after epoch 818: NaN
+validation error after epoch 818: NaN
+
+training error after epoch 819: NaN
+validation error after epoch 819: NaN
+
+training error after epoch 820: NaN
+validation error after epoch 820: NaN
+
+training error after epoch 821: NaN
+validation error after epoch 821: NaN
+
+training error after epoch 822: NaN
+validation error after epoch 822: NaN
+
+training error after epoch 823: NaN
+validation error after epoch 823: NaN
+
+training error after epoch 824: NaN
+validation error after epoch 824: NaN
+
+training error after epoch 825: NaN
+validation error after epoch 825: NaN
+
+training error after epoch 826: NaN
+validation error after epoch 826: NaN
+
+training error after epoch 827: NaN
+validation error after epoch 827: NaN
+
+training error after epoch 828: NaN
+validation error after epoch 828: NaN
+
+training error after epoch 829: NaN
+validation error after epoch 829: NaN
+
+training error after epoch 830: NaN
+validation error after epoch 830: NaN
+
+training error after epoch 831: NaN
+validation error after epoch 831: NaN
+
+training error after epoch 832: NaN
+validation error after epoch 832: NaN
+
+training error after epoch 833: NaN
+validation error after epoch 833: NaN
+
+training error after epoch 834: NaN
+validation error after epoch 834: NaN
+
+training error after epoch 835: NaN
+validation error after epoch 835: NaN
+
+training error after epoch 836: NaN
+validation error after epoch 836: NaN
+
+training error after epoch 837: NaN
+validation error after epoch 837: NaN
+
+training error after epoch 838: NaN
+validation error after epoch 838: NaN
+
+training error after epoch 839: NaN
+validation error after epoch 839: NaN
+
+training error after epoch 840: NaN
+validation error after epoch 840: NaN
+
+training error after epoch 841: NaN
+validation error after epoch 841: NaN
+
+training error after epoch 842: NaN
+validation error after epoch 842: NaN
+
+training error after epoch 843: NaN
+validation error after epoch 843: NaN
+
+training error after epoch 844: NaN
+validation error after epoch 844: NaN
+
+training error after epoch 845: NaN
+validation error after epoch 845: NaN
+
+training error after epoch 846: NaN
+validation error after epoch 846: NaN
+
+training error after epoch 847: NaN
+validation error after epoch 847: NaN
+
+training error after epoch 848: NaN
+validation error after epoch 848: NaN
+
+training error after epoch 849: NaN
+validation error after epoch 849: NaN
+
+training error after epoch 850: NaN
+validation error after epoch 850: NaN
+
+training error after epoch 851: NaN
+validation error after epoch 851: NaN
+
+training error after epoch 852: NaN
+validation error after epoch 852: NaN
+
+training error after epoch 853: NaN
+validation error after epoch 853: NaN
+
+training error after epoch 854: NaN
+validation error after epoch 854: NaN
+
+training error after epoch 855: NaN
+validation error after epoch 855: NaN
+
+training error after epoch 856: NaN
+validation error after epoch 856: NaN
+
+training error after epoch 857: NaN
+validation error after epoch 857: NaN
+
+training error after epoch 858: NaN
+validation error after epoch 858: NaN
+
+training error after epoch 859: NaN
+validation error after epoch 859: NaN
+
+training error after epoch 860: NaN
+validation error after epoch 860: NaN
+
+training error after epoch 861: NaN
+validation error after epoch 861: NaN
+
+training error after epoch 862: NaN
+validation error after epoch 862: NaN
+
+training error after epoch 863: NaN
+validation error after epoch 863: NaN
+
+training error after epoch 864: NaN
+validation error after epoch 864: NaN
+
+training error after epoch 865: NaN
+validation error after epoch 865: NaN
+
+training error after epoch 866: NaN
+validation error after epoch 866: NaN
+
+training error after epoch 867: NaN
+validation error after epoch 867: NaN
+
+training error after epoch 868: NaN
+validation error after epoch 868: NaN
+
+training error after epoch 869: NaN
+validation error after epoch 869: NaN
+
+training error after epoch 870: NaN
+validation error after epoch 870: NaN
+
+training error after epoch 871: NaN
+validation error after epoch 871: NaN
+
+training error after epoch 872: NaN
+validation error after epoch 872: NaN
+
+training error after epoch 873: NaN
+validation error after epoch 873: NaN
+
+training error after epoch 874: NaN
+validation error after epoch 874: NaN
+
+training error after epoch 875: NaN
+validation error after epoch 875: NaN
+
+training error after epoch 876: NaN
+validation error after epoch 876: NaN
+
+training error after epoch 877: NaN
+validation error after epoch 877: NaN
+
+training error after epoch 878: NaN
+validation error after epoch 878: NaN
+
+training error after epoch 879: NaN
+validation error after epoch 879: NaN
+
+training error after epoch 880: NaN
+validation error after epoch 880: NaN
+
+training error after epoch 881: NaN
+validation error after epoch 881: NaN
+
+training error after epoch 882: NaN
+validation error after epoch 882: NaN
+
+training error after epoch 883: NaN
+validation error after epoch 883: NaN
+
+training error after epoch 884: NaN
+validation error after epoch 884: NaN
+
+training error after epoch 885: NaN
+validation error after epoch 885: NaN
+
+training error after epoch 886: NaN
+validation error after epoch 886: NaN
+
+training error after epoch 887: NaN
+validation error after epoch 887: NaN
+
+training error after epoch 888: NaN
+validation error after epoch 888: NaN
+
+training error after epoch 889: NaN
+validation error after epoch 889: NaN
+
+training error after epoch 890: NaN
+validation error after epoch 890: NaN
+
+training error after epoch 891: NaN
+validation error after epoch 891: NaN
+
+training error after epoch 892: NaN
+validation error after epoch 892: NaN
+
+training error after epoch 893: NaN
+validation error after epoch 893: NaN
+
+training error after epoch 894: NaN
+validation error after epoch 894: NaN
+
+training error after epoch 895: NaN
+validation error after epoch 895: NaN
+
+training error after epoch 896: NaN
+validation error after epoch 896: NaN
+
+training error after epoch 897: NaN
+validation error after epoch 897: NaN
+
+training error after epoch 898: NaN
+validation error after epoch 898: NaN
+
+training error after epoch 899: NaN
+validation error after epoch 899: NaN
+
+training error after epoch 900: NaN
+validation error after epoch 900: NaN
+
+training error after epoch 901: NaN
+validation error after epoch 901: NaN
+
+training error after epoch 902: NaN
+validation error after epoch 902: NaN
+
+training error after epoch 903: NaN
+validation error after epoch 903: NaN
+
+training error after epoch 904: NaN
+validation error after epoch 904: NaN
+
+training error after epoch 905: NaN
+validation error after epoch 905: NaN
+
+training error after epoch 906: NaN
+validation error after epoch 906: NaN
+
+training error after epoch 907: NaN
+validation error after epoch 907: NaN
+
+training error after epoch 908: NaN
+validation error after epoch 908: NaN
+
+training error after epoch 909: NaN
+validation error after epoch 909: NaN
+
+training error after epoch 910: NaN
+validation error after epoch 910: NaN
+
+training error after epoch 911: NaN
+validation error after epoch 911: NaN
+
+training error after epoch 912: NaN
+validation error after epoch 912: NaN
+
+training error after epoch 913: NaN
+validation error after epoch 913: NaN
+
+training error after epoch 914: NaN
+validation error after epoch 914: NaN
+
+training error after epoch 915: NaN
+validation error after epoch 915: NaN
+
+training error after epoch 916: NaN
+validation error after epoch 916: NaN
+
+training error after epoch 917: NaN
+validation error after epoch 917: NaN
+
+training error after epoch 918: NaN
+validation error after epoch 918: NaN
+
+training error after epoch 919: NaN
+validation error after epoch 919: NaN
+
+training error after epoch 920: NaN
+validation error after epoch 920: NaN
+
+training error after epoch 921: NaN
+validation error after epoch 921: NaN
+
+training error after epoch 922: NaN
+validation error after epoch 922: NaN
+
+training error after epoch 923: NaN
+validation error after epoch 923: NaN
+
+training error after epoch 924: NaN
+validation error after epoch 924: NaN
+
+training error after epoch 925: NaN
+validation error after epoch 925: NaN
+
+training error after epoch 926: NaN
+validation error after epoch 926: NaN
+
+training error after epoch 927: NaN
+validation error after epoch 927: NaN
+
+training error after epoch 928: NaN
+validation error after epoch 928: NaN
+
+training error after epoch 929: NaN
+validation error after epoch 929: NaN
+
+training error after epoch 930: NaN
+validation error after epoch 930: NaN
+
+training error after epoch 931: NaN
+validation error after epoch 931: NaN
+
+training error after epoch 932: NaN
+validation error after epoch 932: NaN
+
+training error after epoch 933: NaN
+validation error after epoch 933: NaN
+
+training error after epoch 934: NaN
+validation error after epoch 934: NaN
+
+training error after epoch 935: NaN
+validation error after epoch 935: NaN
+
+training error after epoch 936: NaN
+validation error after epoch 936: NaN
+
+training error after epoch 937: NaN
+validation error after epoch 937: NaN
+
+training error after epoch 938: NaN
+validation error after epoch 938: NaN
+
+training error after epoch 939: NaN
+validation error after epoch 939: NaN
+
+training error after epoch 940: NaN
+validation error after epoch 940: NaN
+
+training error after epoch 941: NaN
+validation error after epoch 941: NaN
+
+training error after epoch 942: NaN
+validation error after epoch 942: NaN
+
+training error after epoch 943: NaN
+validation error after epoch 943: NaN
+
+training error after epoch 944: NaN
+validation error after epoch 944: NaN
+
+training error after epoch 945: NaN
+validation error after epoch 945: NaN
+
+training error after epoch 946: NaN
+validation error after epoch 946: NaN
+
+training error after epoch 947: NaN
+validation error after epoch 947: NaN
+
+training error after epoch 948: NaN
+validation error after epoch 948: NaN
+
+training error after epoch 949: NaN
+validation error after epoch 949: NaN
+
+training error after epoch 950: NaN
+validation error after epoch 950: NaN
+
+training error after epoch 951: NaN
+validation error after epoch 951: NaN
+
+training error after epoch 952: NaN
+validation error after epoch 952: NaN
+
+training error after epoch 953: NaN
+validation error after epoch 953: NaN
+
+training error after epoch 954: NaN
+validation error after epoch 954: NaN
+
+training error after epoch 955: NaN
+validation error after epoch 955: NaN
+
+training error after epoch 956: NaN
+validation error after epoch 956: NaN
+
+training error after epoch 957: NaN
+validation error after epoch 957: NaN
+
+training error after epoch 958: NaN
+validation error after epoch 958: NaN
+
+training error after epoch 959: NaN
+validation error after epoch 959: NaN
+
+training error after epoch 960: NaN
+validation error after epoch 960: NaN
+
+training error after epoch 961: NaN
+validation error after epoch 961: NaN
+
+training error after epoch 962: NaN
+validation error after epoch 962: NaN
+
+training error after epoch 963: NaN
+validation error after epoch 963: NaN
+
+training error after epoch 964: NaN
+validation error after epoch 964: NaN
+
+training error after epoch 965: NaN
+validation error after epoch 965: NaN
+
+training error after epoch 966: NaN
+validation error after epoch 966: NaN
+
+training error after epoch 967: NaN
+validation error after epoch 967: NaN
+
+training error after epoch 968: NaN
+validation error after epoch 968: NaN
+
+training error after epoch 969: NaN
+validation error after epoch 969: NaN
+
+training error after epoch 970: NaN
+validation error after epoch 970: NaN
+
+training error after epoch 971: NaN
+validation error after epoch 971: NaN
+
+training error after epoch 972: NaN
+validation error after epoch 972: NaN
+
+training error after epoch 973: NaN
+validation error after epoch 973: NaN
+
+training error after epoch 974: NaN
+validation error after epoch 974: NaN
+
+training error after epoch 975: NaN
+validation error after epoch 975: NaN
+
+training error after epoch 976: NaN
+validation error after epoch 976: NaN
+
+training error after epoch 977: NaN
+validation error after epoch 977: NaN
+
+training error after epoch 978: NaN
+validation error after epoch 978: NaN
+
+training error after epoch 979: NaN
+validation error after epoch 979: NaN
+
+training error after epoch 980: NaN
+validation error after epoch 980: NaN
+
+training error after epoch 981: NaN
+validation error after epoch 981: NaN
+
+training error after epoch 982: NaN
+validation error after epoch 982: NaN
+
+training error after epoch 983: NaN
+validation error after epoch 983: NaN
+
+training error after epoch 984: NaN
+validation error after epoch 984: NaN
+
+training error after epoch 985: NaN
+validation error after epoch 985: NaN
+
+training error after epoch 986: NaN
+validation error after epoch 986: NaN
+
+training error after epoch 987: NaN
+validation error after epoch 987: NaN
+
+training error after epoch 988: NaN
+validation error after epoch 988: NaN
+
+training error after epoch 989: NaN
+validation error after epoch 989: NaN
+
+training error after epoch 990: NaN
+validation error after epoch 990: NaN
+
+training error after epoch 991: NaN
+validation error after epoch 991: NaN
+
+training error after epoch 992: NaN
+validation error after epoch 992: NaN
+
+training error after epoch 993: NaN
+validation error after epoch 993: NaN
+
+training error after epoch 994: NaN
+validation error after epoch 994: NaN
+
+training error after epoch 995: NaN
+validation error after epoch 995: NaN
+
+training error after epoch 996: NaN
+validation error after epoch 996: NaN
+
+training error after epoch 997: NaN
+validation error after epoch 997: NaN
+
+training error after epoch 998: NaN
+validation error after epoch 998: NaN
+
+training error after epoch 999: NaN
+validation error after epoch 999: NaN
+
+training error after epoch 1000: NaN
+validation error after epoch 1000: NaN
